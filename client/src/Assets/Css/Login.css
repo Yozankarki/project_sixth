@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
 
 .background-login {
-	background: #f6f5f7;
+	background: url("../../Assets/images/17896498_5932403.svg");
+	background-size: contain contain;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -58,11 +59,13 @@ input {
 	margin: 8px 0;
 	width: 100%;
 }
+
 .form-container h1,
 .form-container p,
-.form-container button{
+.form-container button {
 	margin-bottom: 3%;
 }
+
 form {
 	background-color: #FFFFFF;
 	display: flex;

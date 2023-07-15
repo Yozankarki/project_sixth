@@ -5,6 +5,7 @@ import Login from "./Components/auth/Login";
 import Register from "./Components/auth/Register";
 import Aboutus from "./Components/Aboutus";
 import Features from "./Components/Features";
+import PageNotFound from "./PageNotFound";
 export default function App() {
   return (
     <Routes>
@@ -20,6 +21,7 @@ export default function App() {
       />
       <Route  path="/Login" element={<Login/>}/>
       <Route  path="/Register" element={<Register/>}/>
+      <Route  path="*" element={<PageNotFound/>}/>
     </Routes>
   );
 }
