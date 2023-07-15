@@ -1,0 +1,30 @@
+section.about-us-container {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    padding: 7rem 0;
+}
+
+.about-us-left {
+    width: 100%;
+}
+
+.image-primary {
+    width: 64%;
+    height: auto;
+    margin-left: 10rem;
+}
+
+.image-secondary {
+    position: absolute;
+    width: 20%;
+    position: absolute;
+    border: 7px solid #fff;
+    z-index: 9;
+    bottom: -50px;
+    left: 28%;
+    bottom: 12%;
+}
+.about-us-content p strong{
+    color: red;
+}

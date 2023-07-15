@@ -1,0 +1,92 @@
+main{
+    padding: 7em 0;
+    background-color: #f8f9fa;
+}
+.container{
+    max-width: 1140px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.card-header{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3rem;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.card-header > h1{
+    font-size: 40px;
+}
+.card-column {
+    margin-bottom: 3rem;
+    padding-right: 15px;
+    padding-left: 15px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.hotel-room {
+    transition: .3s ease-in-out;
+    background: #fff;
+    text-align: center;
+    margin-bottom: 3rem;
+    margin-left: 2rem;
+    
+}
+/* .hotel-room >img:hover{
+    transition: 0.6s ease-in-out;
+    transform: scale(1.1);
+} */
+
+.hotel-room >a img{
+    transition: 0.3s all ease;
+    transform: scale(1.02);
+}
+
+
+.hotel-room >a{
+    overflow: hidden;
+    margin-bottom: 0;
+    text-decoration: none;
+    background-color: transparent;
+}
+.hotel-room a > img{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    border-style: none;
+}
+.hotel-room a > img:hover{
+    transform: .3s all ease;
+    transform: scale(1);
+}
+.hotel-room-body{
+    padding: 30px;
+    text-align: center;
+}
+.hotel-room-body> h3{
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-bottom: 0;
+    line-height: 1.7;
+}
+.hotel-room-body h3 a {
+    text-decoration: none;
+    color: #000;
+}
+.hotel-room-body > strong{
+    color: #5c7893;
+    font-weight: 400;
+    text-align: center;
+    font-size: 1rem;
+    line-height: 1.7;
+}
