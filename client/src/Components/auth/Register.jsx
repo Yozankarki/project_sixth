@@ -1,5 +1,6 @@
 import { NavLink } from "react-router-dom";
 import { useForm } from "react-hook-form";
+import axios from "axios";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
@@ -10,18 +11,24 @@ export default function Register() {
     formState: { errors },
   } = useForm();
   const onSubmit = (data) => {
-    console.log(errors);
-    console.log(data);
-    toast.success("Hello " + data.name, {
-      position: "top-right",
-      autoClose: 5000,
-      hideProgressBar: false,
-      closeOnClick: true,
-      pauseOnHover: true,
-      draggable: true,
-      progress: undefined,
-      theme: "colored",
-    });
+    axios
+      .post("https://localhost:3000/api/register", data)
+      .then((response) => {
+        console.log(response.data);
+        toast.success("Hello " + data.name, {
+          position: "top-right",
+          autoClose: 5000,
+          hideProgressBar: false,
+          closeOnClick: true,
+          pauseOnHover: true,
+          draggable: true,
+          progress: undefined,
+          theme: "colored",
+        });
+      })
+      .catch((error) => {
+        console.error(error);
+      });
   };
 
   return (

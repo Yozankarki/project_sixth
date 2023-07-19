@@ -30,6 +30,19 @@ main {
 
 .card-header>h1 {
     font-size: 40px;
+    position: relative;
+    font-family: cursive;
+}
+
+.card-header>h1::after {
+    content: '';
+    width: 104px;
+    height: 7px;
+    position: absolute;
+    background: black;
+    bottom: -8px;
+    left: 236px;
+    border-radius: 10px;
 }
 
 .card-column {
@@ -48,6 +61,7 @@ main {
     margin-left: 2rem;
 
 }
+
 
 /* .hotel-room >img:hover{
     transition: 0.6s ease-in-out;
