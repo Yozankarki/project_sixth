@@ -1,28 +1,42 @@
-import { NavLink } from "react-router-dom";
+import { NavLink, useNavigate } from "react-router-dom";
 import "../../Assets/Css/Login.css";
 import { useForm } from "react-hook-form";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import { login } from "../../Helper/Helper";
+/* import { useDispatch, useSelector } from "react-redux";
+import { getAllData } from "../../Features/users/GetUserSlice"; */
 
 export default function Login() {
+  const Navigate = useNavigate();
   const {
     register,
     handleSubmit,
     formState: { errors },
   } = useForm();
-  const onSubmit = (data) => {
-    console.log(data);
-    console.log(errors);
-    toast.success("Hello " + data.name, {
-      position: "top-right",
-      autoClose: 5000,
-      hideProgressBar: false,
-      closeOnClick: true,
-      pauseOnHover: true,
-      draggable: true,
-      progress: undefined,
-      theme: "colored",
-    });
+
+  const onSubmit = async (data) => {
+    try {
+      await login(data).then((success) => {
+        console.log(success);
+        if (success.status == 201) {
+          Navigate("/");
+        } else {
+          toast.error(success.data.message, {
+            position: "top-right",
+            autoClose: 5000,
+            hideProgressBar: false,
+            closeOnClick: true,
+            pauseOnHover: true,
+            draggable: true,
+            progress: undefined,
+            theme: "colored",
+          });
+        }
+      });
+    } catch (error) {
+      console.log(error.message);
+    }
   };
 
   return (
@@ -34,7 +48,7 @@ export default function Login() {
             <input
               type="email"
               placeholder="Email"
-              {...register("name", {
+              {...register("email", {
                 required: "Enter Your email.",
                 maxLength: 80,
               })}

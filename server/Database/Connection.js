@@ -9,16 +9,17 @@ const conn = async () => {
     } catch (error) {
         console.log("Unable to connect to the Database", error);
     }
-    const UserData = new userSchema({
+    
+   /*  const UserData = new userSchema({
         name: "John",
         email: "john@example.<EMAIL>",
         password: "asdfasfaasfs",
     });
-    // UserData.save().then((savedUser) => {
-    //     console.log(savedUser);
-    // }).catch((err) => {
-    //     console.log(err);
-    // })
+    UserData.save().then((savedUser) => {
+        console.log(savedUser);
+    }).catch((err) => {
+        console.log(err);
+    }) */
 
 }
 module.exports = conn;

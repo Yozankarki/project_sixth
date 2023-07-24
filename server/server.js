@@ -2,6 +2,7 @@ require('dotenv').config();
 const express = require('express'),
     cors = require('cors'),
     morgan = require('morgan'),
+    cookieParser = require('cookie-parser'),
     app = express();
 
 const connection = require('./Database/Connection');
@@ -15,17 +16,16 @@ app.use(cors({
 }));
 app.use(morgan('tiny'));
 app.disable('x-powered-by');
+app.use(cookieParser());
 
 
-
-/*middlewares */
-app.get('/', (req, res) => {
-    res.send("Hello World");
-
-})
+// Use the router middleware
+app.use('/', router);
 app.use('/api', router);
 
 
+
+//connection to the server
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
     connection();

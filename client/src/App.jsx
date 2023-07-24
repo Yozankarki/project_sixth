@@ -10,18 +10,19 @@ export default function App() {
   return (
     <Routes>
       <Route
-        path="/" element={
+        path="/"
+        element={
           <>
             <Navbar />
             <Rooms />
-            <Aboutus/>
-            <Features/>
+            <Aboutus />
+            <Features />
           </>
         }
       />
-      <Route  path="/Login" element={<Login/>}/>
-      <Route  path="/Register" element={<Register/>}/>
-      <Route  path="*" element={<PageNotFound/>}/>
+      <Route path="/Login" element={<Login />} />
+      <Route path="/Register" element={<Register />} />
+      <Route path="*" element={<PageNotFound />} />
     </Routes>
   );
 }
