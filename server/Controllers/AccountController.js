@@ -1,6 +1,8 @@
+require('dotenv').config();
 const User = require('../Model/UserSchema');
 const { createSecretToken } = require("../Database/secretToken");
 const bcrypt = require('bcrypt');
+const jwt = require('jsonwebtoken');
 
 /*POST: http://localhost:3000/api/register */
 module.exports.Register = async (req, res, next) => {
@@ -44,7 +46,7 @@ module.exports.Login = async (req, res, next) => {
       withCredentials: true,
       httpOnly: false
     });
-    res.status(201).json({ message: "User logged in successfully" });
+    res.status(201).json({ message: "User logged in successfully", token });
   }
   catch (error) {
     console.error(error);
@@ -78,6 +80,29 @@ module.exports.getUser = async (req, res, next) => {
   } catch (error) {
     return res.status(500).send({ error: 'Internal Server Error' });
   }
+}
+
+/**GET user from client token */
+module.exports.getUserDetails = (req, res, next) => {
+  const token = req.headers.authorization.split(' ')[1];
+  if (!token) {
+    return res.json({ status: false });
+  }
+  jwt.verify(token, process.env.TOKEN_KEY, async (err, data) => {
+    if (err) {
+      return res.json({ status: false });
+    }
+    else {
+      const user = await User.findById(data.id);
+      if (user) {
+        const { password, email, ...rest } = Object.assign({}, user.toJSON());
+        return res.json(rest);
+      }
+      else {
+        return res.json({ status: false });
+      }
+    }
+  })
 }
 
 /** Update Users */

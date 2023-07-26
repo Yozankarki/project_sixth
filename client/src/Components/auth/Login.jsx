@@ -18,8 +18,9 @@ export default function Login() {
   const onSubmit = async (data) => {
     try {
       await login(data).then((success) => {
-        console.log(success);
         if (success.status == 201) {
+          const token = success.data.token;
+          localStorage.setItem("token", token);
           Navigate("/");
         } else {
           toast.error(success.data.message, {
@@ -67,16 +68,13 @@ export default function Login() {
               <a href="#">Forgot your password?</a>
             </p>
             <button className="btn1">Sign In</button>
+            <div className="register-link">
+              <p>
+                Not a member yet?
+                <NavLink to="/Register">Register now</NavLink>
+              </p>
+            </div>
           </form>
-        </div>
-        <div className="overlay-container">
-          <div className="overlay-panel">
-            <h1>Hi There!</h1>
-            <p>Enter your personal details to open an account with us</p>
-            <button className="ghost btn1">
-              <NavLink to="/Register">Sign Up</NavLink>
-            </button>
-          </div>
         </div>
       </div>
       <ToastContainer />

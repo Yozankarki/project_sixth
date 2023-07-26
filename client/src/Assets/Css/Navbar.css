@@ -1,15 +1,24 @@
 header {
   height: calc(100vh);
 }
-nav{
+
+nav {
   padding: 3% 15%;
 }
-nav, nav li a {
+
+nav,
+nav li a {
   display: flex;
   align-items: center;
   justify-content: space-between;
   color: #fff;
   cursor: pointer;
+}
+
+span {
+  color: red;
+  text-transform: lowercase;
+  font-size: 45px;
 }
 
 nav li:hover {
@@ -24,6 +33,7 @@ ul li {
   font-family: cursive;
 }
 
+
 .secondary-nav li {
   display: inline-block;
   padding: 9px;
@@ -32,11 +42,17 @@ ul li {
 a {
   text-decoration: none;
   font-family: cursive;
+  color: blue;
 }
 
+color: blue;
+
+.TokenUser {
+  text-transform: uppercase;
+}
 
 .background-image {
-  background:linear-gradient(rgba(0,0,0, 0.4),rgba(0,0,0, 0.4)),url(../images/bedroom.jpg) ;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/bedroom.jpg);
   width: 100%;
   height: 100vh;
   background-repeat: no-repeat;
@@ -46,18 +62,19 @@ a {
   /* filter:brightness(70%); */
 }
 
-.hero-text{
+.hero-text {
   text-align: center;
   padding: calc(20vh);
   color: #fff;
 }
-.hero-text> h1{
+
+.hero-text>h1 {
   font-size: 4rem;
   font-weight: 900;
   line-height: 1.2;
 }
 
-.hero-text > h6{
+.hero-text>h6 {
   text-transform: uppercase;
   letter-spacing: .2em;
   font-size: 12px;

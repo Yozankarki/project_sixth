@@ -1,15 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
 
 .background-login {
-	background: url("../../Assets/images/17896498_5932403.svg");
-	background-size: contain contain;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../Assets/images/person.jpg");
+	background-size: cover;
+	background-position: cover;
+	background-repeat: no-repeat;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
 	font-family: 'Montserrat', sans-serif;
 	height: 100vh;
-	margin: -20px 0 50px;
+
 }
 
 .main-container {
@@ -35,7 +37,7 @@ button {
 	padding: 12px 45px;
 	letter-spacing: 1px;
 	text-transform: uppercase;
-	transition: transform 80ms ease-in;
+	margin: 25px 0px 20px;
 	border-color: red;
 }
 
@@ -60,11 +62,15 @@ input {
 	width: 100%;
 }
 
-.form-container h1,
+.form-container h1 {
+	margin: -13px 0px 50px 0px;
+}
+
+/* .form-container h1,
 .form-container p,
 .form-container button {
 	margin-bottom: 3%;
-}
+} */
 
 form {
 	background-color: #FFFFFF;

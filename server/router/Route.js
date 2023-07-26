@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const { userVerification } = require('../MiddleWares/AuthMiddleware');
-const { Register, Login, verifyUser, getUser, resetPassword, updateUser } = require('../Controllers/AccountController');
+const { Register, Login, verifyUser, getUser, resetPassword, updateUser, getUserDetails } = require('../Controllers/AccountController');
 
 //defining the routes using the router object
 router.get('/', (req, res) => {
@@ -15,6 +15,7 @@ router.route("/authenticate").post(verifyUser, (req, res) => res.end());
 
 /**GET Methods */
 router.route('/user/:id').get(getUser);
+router.route('/token').get(getUserDetails);
 
 /**PUT methods */
 router.route('/updateuser').put(userVerification, updateUser);

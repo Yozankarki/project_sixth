@@ -11,6 +11,7 @@ export default function Register() {
     handleSubmit,
     formState: { errors },
   } = useForm();
+
   const onSubmit = async (data) => {
     try {
       await registerUser(data).then((success) => {
@@ -38,17 +39,6 @@ export default function Register() {
   return (
     <section className="background-login">
       <div className="main-container">
-        <div className="overlay-container">
-          <div className="overlay-panel">
-            <h1>Welcome Back!</h1>
-            <p>
-              To keep connected with us please login with your personal details
-            </p>
-            <button className="ghost btn1">
-              <NavLink to="/Login">Sign In</NavLink>
-            </button>
-          </div>
-        </div>
         <div className="form-container">
           <form action="#" onSubmit={handleSubmit(onSubmit)}>
             <h1>Create Account</h1>
@@ -94,6 +84,12 @@ export default function Register() {
               {errors.confirmPassword?.message}
             </span>
             <button>Sign Up</button>
+            <div className="register-link">
+              <p>
+                Already a member!
+                <NavLink to="/Login">Sign In</NavLink>
+              </p>
+            </div>
           </form>
         </div>
       </div>

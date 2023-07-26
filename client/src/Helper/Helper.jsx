@@ -19,6 +19,21 @@ export async function getUser({ id }) {
   }
 }
 
+/**GET user with token */
+export async function getUserToken() {
+  try {
+    const token = localStorage.getItem("token");
+    const data = await axios.get("http://localhost:3000/api/token", {
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+    });
+    return data;
+  } catch (error) {
+    return { error: "Token Doesn't match." };
+  }
+}
+
 /**register user function */
 export async function registerUser(credentials) {
   try {

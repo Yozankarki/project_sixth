@@ -6,6 +6,7 @@ import Register from "./Components/auth/Register";
 import Aboutus from "./Components/Aboutus";
 import Features from "./Components/Features";
 import PageNotFound from "./PageNotFound";
+import Footer from "./Components/Footer";
 export default function App() {
   return (
     <Routes>
@@ -17,6 +18,7 @@ export default function App() {
             <Rooms />
             <Aboutus />
             <Features />
+            <Footer />
           </>
         }
       />
