@@ -1,6 +1,6 @@
-import { NavLink } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 import "../Assets/Css/Navbar.css";
-import { getUserToken } from "../Helper/Helper";
+import { getUserToken } from "../Helper/AuthHelper";
 import { useEffect, useState } from "react";
 
 const isLoggedIn = () => {
@@ -24,8 +24,10 @@ export default function Navbar() {
   }, []);
 
   const handleLogout = () => {
-    localStorage.removeItem("token");
-    setUserName("");
+    if (confirm("Do you want to logout?")) {
+      localStorage.removeItem("token");
+      setUserName("");
+    }
   };
   const isValidAdmin = () => {
     if (id === "64bf3714a83a39d228f3e6fa") return true;
@@ -52,14 +54,14 @@ export default function Navbar() {
             <>
               {/* checking wheather the user is admin or not. */}
               {isValidAdmin() ? (
-                <button>Admin Panel</button>
+                <NavLink to="/Dashboard">Admin Panel</NavLink>
               ) : (
                 <li className="TokenUser">
                   <NavLink>Welcome, {username}</NavLink>
                 </li>
               )}
               <li>
-                <NavLink onClick={handleLogout}>LOGOUT</NavLink>
+                <Link onClick={handleLogout}>LOGOUT</Link>
               </li>
             </>
           ) : (

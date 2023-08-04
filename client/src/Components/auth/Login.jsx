@@ -3,7 +3,7 @@ import "../../Assets/Css/Login.css";
 import { useForm } from "react-hook-form";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import { login } from "../../Helper/Helper";
+import { login } from "../../Helper/AuthHelper";
 /* import { useDispatch, useSelector } from "react-redux";
 import { getAllData } from "../../Features/users/GetUserSlice"; */
 

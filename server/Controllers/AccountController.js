@@ -1,4 +1,4 @@
-require('dotenv').config();
+require('dotenv').config() ;
 const User = require('../Model/UserSchema');
 const { createSecretToken } = require("../Database/secretToken");
 const bcrypt = require('bcrypt');

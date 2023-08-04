@@ -1,6 +1,6 @@
 import { configureStore } from "@reduxjs/toolkit";
-import GetUserSlice from "../Features/users/GetUserSlice";
+import GetRoomSlice from "../Features/rooms/getRoomSlice";
 
 export const Store = configureStore({
-  reducer: { user: GetUserSlice },
+  reducer: { app: GetRoomSlice },
 });

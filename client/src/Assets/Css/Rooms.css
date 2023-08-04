@@ -90,7 +90,7 @@ main {
 
 .hotel-room a>img:hover {
     transform: .3s all ease;
-    transform: scale(1);
+    transform: scale(1.1);
 }
 
 .hotel-room-body {
@@ -116,4 +116,12 @@ main {
     text-align: center;
     font-size: 1rem;
     line-height: 1.7;
+}
+
+
+
+
+.small-star {
+    color: gold;
+    font-size: 16px;
 }

@@ -2,7 +2,7 @@ import { NavLink, useNavigate } from "react-router-dom";
 import { useForm } from "react-hook-form";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import { registerUser } from "../../Helper/Helper";
+import { registerUser } from "../../Helper/AuthHelper";
 
 export default function Register() {
   const Navigate = useNavigate();

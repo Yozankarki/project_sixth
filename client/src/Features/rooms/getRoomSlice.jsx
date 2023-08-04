@@ -1,22 +1,22 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
-import axios from "axios";
 
+import axios from "axios";
 export const getAllData = createAsyncThunk(
   "getUsers",
   async (args, { rejectWithValue }) => {
     try {
-      const res = await axios("http://localhost:3000/api/login");
-      return res.data;
+      const response = await axios("http://localhost:3000/room/allrooms");
+      return response.data;
     } catch (error) {
       return rejectWithValue("something went wrong" + error);
     }
   }
 );
 
-const getuserSlice = createSlice({
-  name: "getUsers",
+const getRoomSlice = createSlice({
+  name: "getRooms",
   initialState: {
-    users: [],
+    rooms: [],
     loading: false,
     error: null,
   },
@@ -27,12 +27,12 @@ const getuserSlice = createSlice({
       })
       .addCase(getAllData.fulfilled, (state, action) => {
         state.loading = false;
-        state.users = action.payload;
+        state.rooms = action.payload;
       })
       .addCase(getAllData.rejected, (state, action) => {
         state.loading = false;
-        state.loading = action.payload;
+        state.error = action.payload;
       });
   },
 });
-export default getuserSlice.reducer;
+export default getRoomSlice.reducer;

@@ -4,28 +4,29 @@ const userSchema = new mongoose.Schema({
     name: {
         type: String,
         required: [true, "Please provide valid Username."],
-        minlength: [3, "Name is smaller than expected."],
-        maxlength: [20, 'Maximum length of the field is exceeded'],
+        min: [3, "Name is smaller than expected."],
+        max: [20, 'Maximum length of the field is exceeded'],
         unique: false,
     },
     email: {
         type: String,
         required: [true, "Please Enter Your Email."],
-        maxlength: [30, 'Maximum length of the field is exceeded'],
-        unique: [true, 'Email exists.']
+        max: [30, 'Maximum length of the field is exceeded'],
+        unique: [true, 'Email exists.'],
+        trim: true
     },
     password: {
         type: String,
         required: [true, "Please Enter Your Password."],
-        minlength: [6, "Password should be at least 8 characters long."],
-        maxlength: [1024, 'Maximum length of the field is exceeded'],
+        min: [6, "Password should be at least 8 characters long."],
+        max: [1024, 'Maximum length of the field is exceeded'],
         unique: false,
     },
     confirmPassword: {
         type: String,
         required: [false, "Enter Confirm Password"],
-        minlength: [6, "Password should be at least 8 characters long."],
-        maxlength: [1024, 'Maximum length of the field is exceeded'],
+        min: [6, "Password should be at least 8 characters long."],
+        max: [1024, 'Maximum length of the field is exceeded'],
         unique: false,
         validate: {
             validator: function (value) {

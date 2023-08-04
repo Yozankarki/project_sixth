@@ -6,7 +6,8 @@ const express = require('express'),
     app = express();
 
 const connection = require('./Database/Connection');
-const router = require('./router/Route');
+const userRouter = require('./router/AuthRoute');
+const RoomRouter = require('./router/RoomRoute');
 
 /*middlewares */
 app.use(express.json());
@@ -19,11 +20,12 @@ app.disable('x-powered-by');
 app.use(cookieParser());
 
 
-// Use the router middleware
-app.use('/', router);
-app.use('/api', router);
+// Use the router middleware for user
+app.use('/', userRouter);
+app.use('/api', userRouter);
 
-
+//use the router for rooms
+app.use('/room', RoomRouter);
 
 //connection to the server
 const port = process.env.PORT || 3000;
