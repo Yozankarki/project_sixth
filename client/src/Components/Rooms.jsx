@@ -16,45 +16,39 @@ export default function Rooms() {
   }, [dispatch]);
 
   return (
-    <main>
-      <div className="container">
-        <div className="row">
-          <div className="card-header">
-            <h1>Our Rooms</h1>
-          </div>
-        </div>
-        <div className="row">
-          <div className="card-column">
-            {roomData.loading ? (
-              <h2>Loading....</h2>
-            ) : (
-              roomData.rooms.map((e) => {
-                return (
-                  <div
-                    className="hotel-room"
-                    key={e._id}
-                    onClick={() => {
-                      navigate(`/room/${e._id}`);
-                    }}
-                  >
-                    <a href="">
-                      <img
-                        src={`../../src/Assets/images/${e.image}`}
-                        alt="some image"
-                      />
-                    </a>
-                    <div className="hotel-room-body">
-                      <h3>
-                        <a href="#">{e.type}</a>
-                      </h3>
-                      <strong>RS.{e.price}/ per night</strong>
-                    </div>
-                  </div>
-                );
-              })
-            )}
-          </div>
-        </div>
+    <main className="room-section">
+      <div className="room-header">
+        <h1>Our Rooms</h1>
+      </div>
+      <div className="card-container">
+        {roomData.loading ? (
+          <h2>Loading....</h2>
+        ) : (
+          roomData.rooms.map((e) => {
+            return (
+              <div
+                className="card-column"
+                key={e._id}
+                onClick={() => {
+                  navigate(`/room/${e._id}`);
+                }}
+              >
+                <figure>
+                  <img
+                    src={`../../src/Assets/images/Room/${e.image}`}
+                    alt="some image"
+                  />
+                </figure>
+                <div className="card-room-body">
+                  <h3>
+                    <a href="#">{e.type}</a>
+                  </h3>
+                  <strong>RS.{e.price}/ per night</strong>
+                </div>
+              </div>
+            );
+          })
+        )}
       </div>
     </main>
   );

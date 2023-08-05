@@ -1,4 +1,99 @@
-main {
+.room-section {
+    padding: 2% 10%;
+    background-color: #f8f9fa;
+}
+
+.room-header {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3rem;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+.room-header>h1 {
+    font-size: 40px;
+    position: relative;
+    font-family: cursive;
+}
+
+.room-header>h1::after {
+    content: '';
+    width: 104px;
+    height: 7px;
+    position: absolute;
+    background: black;
+    bottom: -8px;
+    left: 236px;
+    border-radius: 10px;
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 3rem;
+    row-gap: 2rem;
+}
+
+.card-column {
+    border-radius: 2px;
+    overflow: hidden;
+    background-color: white;
+    max-width: 400px;
+    box-shadow: none;
+    text-decoration: none;
+    color: black;
+}
+
+.card-column figure {
+    margin: 0;
+    padding: 0;
+    aspect-ratio: 16/9;
+    overflow: hidden;
+}
+
+.card-column img {
+    max-width: 100%;
+    transform-origin: center;
+    transition: transform 0.4s ease-in-out;
+}
+
+.card-column img:hover,
+.card-column img:focus {
+    transform: scale(1.1);
+}
+
+.card-room-body {
+    padding: 24px;
+    line-height: 1.5rem;
+}
+
+.card-room-body h3 {
+    margin: 0 0 18px 0;
+    letter-spacing: 0.006em;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    transition: transform 0.4s ease-in-out;
+    font-family: "Bebas Neue", cursive;
+}
+
+.card-room-body p {
+    text-align: justify;
+}
+
+
+.card-column:hover h3 a,
+.card-column:focus h3 a {
+    color: black;
+}
+
+.small-star {
+    color: gold;
+    font-size: 16px;
+}
+
+/* main {
     margin-top: 3%;
     background-color: #f8f9fa
 }
@@ -57,16 +152,15 @@ main {
     transition: .3s ease-in-out;
     background: #fff;
     text-align: center;
-    margin-bottom: 3rem;
-    margin-left: 2rem;
+    
 
 }
 
 
-/* .hotel-room >img:hover{
+.hotel-room >img:hover{
     transition: 0.6s ease-in-out;
     transform: scale(1.1);
-} */
+} 
 
 .hotel-room>a img {
     transition: 0.3s all ease;
@@ -99,7 +193,7 @@ main {
 }
 
 .hotel-room-body>h3 {
-    text-transform: uppercase;
+    
     font-size: 20px;
     margin-bottom: 0;
     line-height: 1.7;
@@ -121,7 +215,4 @@ main {
 
 
 
-.small-star {
-    color: gold;
-    font-size: 16px;
-}
+ */

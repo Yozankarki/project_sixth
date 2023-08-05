@@ -1,6 +1,7 @@
+import "../Assets/Css/Features.css";
 export default function Features() {
   return (
-    <main style={{ padding: "3% 15%" }}>
+    <main>
       <div>
         Guideal is a hospitality business based in Kathmandu. We provide
         exceptional services and aim to exceed our clients expectations. Our

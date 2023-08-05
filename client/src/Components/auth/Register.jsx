@@ -83,7 +83,7 @@ export default function Register() {
             <span style={{ color: "red" }}>
               {errors.confirmPassword?.message}
             </span>
-            <button>Sign Up</button>
+            <button className="btn1">Sign Up</button>
             <div className="register-link">
               <p>
                 Already a member!

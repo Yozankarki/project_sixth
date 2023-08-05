@@ -27,7 +27,7 @@
 	flex-direction: row;
 }
 
-button {
+.btn1 {
 	border-radius: 20px;
 	border: 1px solid #F2eee3;
 	background-color: #F2eee3;
@@ -41,20 +41,20 @@ button {
 	border-color: red;
 }
 
-button:active {
+.btn1:active {
 	transform: scale(0.95);
 }
 
-button:focus {
+.btn1:focus {
 	outline: none;
 }
 
-button.ghost {
+.btn1.ghost {
 	background-color: transparent;
 	border-color: red;
 }
 
-input {
+.form-container input {
 	background-color: #f2eee3;
 	border: none;
 	padding: 12px 15px;
@@ -72,7 +72,7 @@ input {
 	margin-bottom: 3%;
 } */
 
-form {
+.form-container {
 	background-color: #FFFFFF;
 	display: flex;
 	align-items: center;
