@@ -3,7 +3,7 @@ const router = express.Router();
 const { addRooms, getSingleRooms, getAllRooms } = require('../Controllers/RoomController');
 
 router.get('/', (req, res) => {
-    res.send('Hello, World!');
+    res.send('Hello, RoomController!');
 });
 
 /**POST Methods */

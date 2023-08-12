@@ -1,6 +1,6 @@
 .flex-container {
     display: flex;
-    padding: 3% 10%;
+    padding: 5% 10%;
 }
 
 .flex-container>div {

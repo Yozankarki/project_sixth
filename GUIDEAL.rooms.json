@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "64c1ce68c32f9b8d53cf0cf9"
+  },
+  "type": "standard room",
+  "price": 1000,
+  "description": "Ideal for history and nature enthusiasts, this private tour of Bhaktapur and Nagarkot covers the highlights of the centuries-old former independent kingdom outside Kathmandu plus stunning views from a Himalayan hill station. See Bhaktapur's well-preserved Durbar Square and, on clear days, all the way to Mt. Everest. Tours include your own guide, free time to shop for handicrafts, and comfortable, round-trip transportation from your Kathmandu hotel. Note: From Nagarkot, mountain views are only visible when the weather is clear and without clouds.",
+  "location": "Bhaktapur",
+  "image": "room.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c3dd1a80f67364b5f37e20"
+  },
+  "type": "family room",
+  "price": 3000,
+  "description": "Nepal’s capital is surrounded by a valley full of historic sites, ancient temples, shrines, and fascinating villages. Mingle with locals and animals amid Durbar Square’s monuments, or join mountain trekkers in the bustling Thamel District. Explore shops for exquisite work by local artisans—carpets and paper prints are specialties.",
+  "location": "kathmandu",
+  "image": "room1.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cbd4d7e574351d906d0969"
+  },
+  "type": "Luxury Suite",
+  "price": 5000,
+  "description": "Here exists a very cozy room for rent in a shared 4-bedroom apartment. It is located one block off of the JMZ at Myrtle Broadway.  The neighborhood is diverse and appeals to a variety of people.",
+  "location": "kathmandu",
+  "image": "room2.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cbd5d1e574351d906d096f"
+  },
+  "type": "Standard Deluxe",
+  "price": 2000,
+  "description": "Fantastic duplex apartment with three bedrooms, located in the historic area of Porto, Ribeira (Cube) - UNESCO World Heritage Site. Centenary building fully rehabilitated, without losing their original character. Privileged views of the Douro River and Ribeira square, our apartment offers the perfect conditions to discover the history and the charm of Porto. Apartment comfortable, charming, romantic and cozy in the heart of Ribeira. Within walking distance of all the most emblematic places of the city of Porto. The apartment is fully equipped to host 8 people, with cooker, oven, washing machine, dishwasher, microwave, coffee machine (Nespresso) and kettle. The apartment is located in a very typical area of the city that allows to cross with the most picturesque population of the city, welcoming, genuine and happy people that fills the streets with his outspoken speech and contagious with your sincere generosity, wrapped in a only parochial spirit. We are always available to help guests",
+  "location": "Bhaktapur",
+  "image": "room3.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cbd854e574351d906d0975"
+  },
+  "type": "Grant Suite Room ",
+  "price": 1500,
+  "description": "The Apartment has a living room, toilet, bedroom (suite) and American kitchen. Well located, on the Copacabana beach block a 05 Min. walk from Ipanema beach (Arpoador). Internet wifi, cable tv, air conditioning in the bedroom, ceiling fans in the bedroom and living room, kitchen with microwave, cooker, Blender, dishes, cutlery and service area with fridge, washing machine, clothesline for drying clothes and closet with several utensils for use.  The property boasts 45 m2. The apartment has a living room, wash room, suite and an American kitchen. The bedroom has a double bed and there's a bunk bed in the living room. It is very well located, in the Copacabana beach block and just a few blocks from Arpoador and Ipanema. You can walk to any of those beaches. It has internet wifi, tv, air conditioning in the bedroom, ceiling fans in the living room and the bedroom and an equipped kitchen with cooker, fridge, washing machine, microwave and utensils. Ease of public transportation, banks, mar",
+  "location": "Lalitpur",
+  "image": "room4.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cbd8e3e574351d906d097b"
+  },
+  "type": "Junior Suite Room ",
+  "price": 1000,
+  "description": "One bedroom + sofa-bed in quiet and bucolic neighbourhood right next to the Botanical Garden. Small garden, outside shower, well equipped kitchen and bathroom with shower and tub. Easy for transport with many restaurants and basic facilities in the area. Lovely one bedroom + sofa-bed in the living room, perfect for two but fits up to four comfortably.  There´s a small outside garden with a shower There´s a well equipped open kitchen with both 110V / 220V wall plugs and one bathroom with shower, tub and even a sauna machine! All newly refurbished! I´ll be happy to help you with any doubts, tips or any other information needed during your stay. This charming ground floor flat is located in Horto, a quiet and bucolic neighborhood just next to the Botanical Garden, where most of the descendants of it´s first gardeners still live. You´ll be 30 minutes walk from waterfalls in the rainforest with easy hiking trails! There are nice bars and restaurants as well as basic facilities",
+  "location": "Kathmandu",
+  "image": "room5.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d269105c732dc987ad908e"
+  },
+  "type": "Standard hotel rooms",
+  "price": "1500",
+  "description": "Kathmandu’s top sights are spread throughout the sprawling capital, meaning most visitors end up missing key attractions. On this action-packed day tour, you’ll cover all of the region’s UNESCO-listed highlights. Travel in a comfortable private car between locations in the city, with a private guide on-hand to supply information and background. You’ll also enjoy lunch in stunning Bhaktapur and venture to Changu Narayan, the oldest temple in the Kathmandu Valley.",
+  "location": "Kathmandu",
+  "image": "room6.jpg"
+},
+{
+  "_id": {
+    "$oid": "64d269105c732dc987ad9093"
+  },
+  "type": "Suites",
+  "price": "3500",
+  "description": "Ideal for history and nature enthusiasts, this private tour of Bhaktapur and Nagarkot covers the highlights of the centuries-old former independent kingdom outside Kathmandu plus stunning views from a Himalayan hill station. See Bhaktapur's well-preserved Durbar Square and, on clear days, all the way to Mt. Everest. Tours include your own guide, free time to shop for handicrafts, and comfortable, round-trip transportation from your Kathmandu hotel. Note: From Nagarkot, mountain views are only visible when the weather is clear and without clouds.",
+  "location": "Lalitpur",
+  "image": "room11.jpg"
+},
+{
+  "_id": {
+    "$oid": "64d269105c732dc987ad9090"
+  },
+  "type": "Deluxe hotel rooms",
+  "price": "2500",
+  "description": "On this private tour of the Kathmandu Valley you’ll discover four UNESCO World Heritage sites in one day: Kathmandu Durbar Square, Swayambhunath, Boudhanath Stupa and Pashupati Temple. Explore these landmarks with your own personal guide who describes the religious, historical and cultural significance of each location. A perfect introduction for first-time visitors to Nepal, this full-day trip offers a fantastic overview including round-trip hotel transport in the comfort of a private vehicle.",
+  "location": "Lalitpur",
+  "image": "room8.jpg"
+},
+{
+  "_id": {
+    "$oid": "64d269105c732dc987ad9098"
+  },
+  "type": "Deluxe hotel rooms",
+  "price": "3000",
+  "description": "Hike to one of the world’s most sacred Buddhist sites on a private full-day trip to Namo Buddha (Stupa) from Kathmandu. With just your private guide and party, you’ll hike to the Namo Buddha (Stupa) shrine and temple, located at an altitude of 5,741 feet (1,750 meters).  At the top, you’ll visit the Thrangu Tashi Yangtse Monastery and enjoy panoramic views of Panauti village and Khopasi. Lunch, refreshments, and hotel pickup and drop-off are included.",
+  "location": "Bhaktapur",
+  "image": "room16.jpg"
+},
+{
+  "_id": {
+    "$oid": "64d269105c732dc987ad908f"
+  },
+  "type": "Minimalist hotel rooms",
+  "price": "3000",
+  "description": "Learn more about the history and culture of the ancient Kathmandu Valley on this fascinating private day tour. You’ll visit a variety of UNESCO-listed Hindu and Buddhist cultural sites, including Pashupatinath Temple, Boudhanath and Swayambhunath Stupas, and Patan Durbar Square. Also get the chance to visit a thangka painting school and a singing bowl demonstration for a behind-the-scenes look at these traditional arts and crafts.",
+  "location": "Bhaktapur",
+  "image": "room7.jpg"
+},
+{
+  "_id": {
+    "$oid": "64d269105c732dc987ad9095"
+  },
+  "type": "Deluxe hotel rooms",
+  "price": "4000",
+  "description": "Many visitors to Kathmandu miss nearby Bhaktapur, a well-preserved medieval city-state and UNESCO-World Heritage site. Discover one of Nepal’s prettiest attractions during this behinds the scenes peek at the Newari city, famous for its intricate pagodas and delicate handicrafts. The in-depth tour also includes a visit to Panauti, where you’ll have a chance to meet with local entrepreneurs.",
+  "location": "Bhaktapur",
+  "image": "room13.jpg"
+},
+{
+  "_id": {
+    "$oid": "64d269105c732dc987ad9096"
+  },
+  "type": "Minimalist hotel rooms",
+  "price": "1000",
+  "description": "Get out of Kathmandu city for the day and explore beyond the most famous tourist sites on a fun private day tour beyond the Kathmandu Valley. You’ll visit the impressive Kailashnath Mahadev statue, right on the rim of the valley, followed by the ancient Newari town of Panauti and the Buddhist pilgrimage site, Namo Buddha. Learn more about Nepal’s diverse culture and history from your private guide.",
+  "location": "Lalitpur",
+  "image": "room14.jpg"
+},
+{
+  "_id": {
+    "$oid": "64d269105c732dc987ad9092"
+  },
+  "type": "Connecting rooms",
+  "price": "2000",
+  "description": "Hike from Nagarkot to Changunarayan with your own private guide on a 5-hour tour from Kathmandu. Begin with a scenic drive to Nagarkot to reach the trail. While hiking, soak in sweeping views of the Himalayas, Kathmandu, and Bhaktapur, and pass through small villages where you can observe local culture. You'll also visit Changunarayan Temple, a UNESCO World Heritage Site. Includes private guide and transportation, packed lunch and bottled water, entrance fees, and hotel pickup and drop-off.",
+  "location": "Bhaktapur",
+  "image": "room10.jpg"
+},
+{
+  "_id": {
+    "$oid": "64d269105c732dc987ad9091"
+  },
+  "type": "Studio hotel rooms",
+  "price": "3500",
+  "description": "Visit top religious sites around Kathmandu with your own private guide on this full-day tour. Venture just outside of Kathmandu to explore Bhaktapur Durbar Square—a UNESCO World Heritage Site—and the nearby Temple of Taleju. Continue to two more World Heritage sites, Boudhanath Stupa and Swayambhunath Temple (aka Monkey Temple), then wrap up your sightseeing tour at Pashupatinath Temple. Learn about Buddhist and Hindu traditions in Nepal on a tour that includes private climate-controlled transportation, and hotel pickup and drop-off.",
+  "location": "Kathmandu",
+  "image": "room9.jpg"
+},
+{
+  "_id": {
+    "$oid": "64d269105c732dc987ad9097"
+  },
+  "type": "Standard hotel rooms",
+  "price": "1500",
+  "description": "Although it is close to Kathmandu, the village of Namo Buddha feels like a totally rural escape from the capital city. It’s a major Buddhist pilgrimage site, and on this convenient half-day trip you’ll visit a number of holy sites, such as the Namo Buddha Stupa and the Thrangu Tashi Yangtse Monastery. You don’t need to be religious yourself to appreciate the beauty and calm of these locations. Enjoy some of the best Himalayan views in the area from Namo Buddha.",
+  "location": "Kathmandu",
+  "image": "room15.jpg"
+},
+{
+  "_id": {
+    "$oid": "64d269105c732dc987ad9094"
+  },
+  "type": "Studio hotel rooms",
+  "price": "3000",
+  "description": "Take a full-day private tour that combines the sunrise viewing at Nagarkot with a sightseeing trip to Bhaktapur—a UNESCO World Heritage Site. Rise early to depart from Kathmandu and reach high altitude Nagarkot in time to watch the sun rise over the Himalayas. Continue to Bhaktapur after breakfast and visit top attractions in the culture-rich city, including Bhaktapur Durbar Square, Nyatapole Temple, Dattatreya Temple, and 55 Window Palace. Your tour includes breakfast, private guide and vehicle, and hotel pickup and drop-off.",
+  "location": "Kathmandu",
+  "image": "room12.jpg"
+}]

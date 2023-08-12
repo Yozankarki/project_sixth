@@ -3,9 +3,13 @@ import "../Assets/Css/Navbar.css";
 import { getUserToken } from "../Helper/AuthHelper";
 import { useEffect, useState } from "react";
 
-const isLoggedIn = () => {
+export const IsLoggedIn = () => {
   const accessToken = localStorage.getItem("token");
   return accessToken != null;
+};
+export const IsValidAdmin = (id) => {
+  if (id === "64bf3714a83a39d228f3e6fa") return true;
+  else return false;
 };
 
 export default function Navbar() {
@@ -29,16 +33,14 @@ export default function Navbar() {
       setUserName("");
     }
   };
-  const isValidAdmin = () => {
-    if (id === "64bf3714a83a39d228f3e6fa") return true;
-    else return false;
-  };
+  //checking wheather the user is admin or not.
+  IsValidAdmin(id);
 
   return (
     <header className="background-image">
       <nav>
         <h1>
-          <a href="#">
+          <a href="/">
             GUIDE<span>AL</span>
           </a>
         </h1>
@@ -50,14 +52,16 @@ export default function Navbar() {
           <li>CONTACT</li>
         </ul>
         <div className="secondary-nav">
-          {isLoggedIn() ? (
+          {IsLoggedIn() ? (
             <>
               {/* checking wheather the user is admin or not. */}
-              {isValidAdmin() ? (
-                <NavLink to="/Dashboard">Admin Panel</NavLink>
+              {IsValidAdmin(id) ? (
+                <li className="TokenUser">
+                  <NavLink to="/Dashboard">Admin Panel</NavLink>
+                </li>
               ) : (
                 <li className="TokenUser">
-                  <NavLink>Welcome, {username}</NavLink>
+                  <NavLink to="#">Welcome, {username}</NavLink>
                 </li>
               )}
               <li>

@@ -1,0 +1,1288 @@
+[{
+  "_id": {
+    "$oid": "64d72df7e754a6961c9a2d72"
+  },
+  "hotel_id": {
+    "$oid": "64d70871374e1e465a62a1de"
+  },
+  "user_id": {
+    "$oid": "64d7065b374e1e465a62a1c8"
+  },
+  "reviews": "very excellent room",
+  "ratings": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d5096d73c2457dc7091e48"
+  },
+  "hotel_id": {
+    "$oid": "64d70889374e1e465a62a1e3"
+  },
+  "user_id": {
+    "$oid": "64d70819374e1e465a62a1cf"
+  },
+  "reviews": "nice nice",
+  "ratings": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df7e754a6961c9a2d73"
+  },
+  "hotel_id": {
+    "$oid": "64d70877374e1e465a62a1df"
+  },
+  "user_id": {
+    "$oid": "64d70803374e1e465a62a1cb"
+  },
+  "reviews": "not bad",
+  "ratings": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d8a"
+  },
+  "hotel_id": {
+    "$oid": "64cbd5d1e574351d906d096f"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350cc"
+  },
+  "reviews": "could be better",
+  "ratings": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d7d"
+  },
+  "hotel_id": {
+    "$oid": "64d708ae374e1e465a62a1e9"
+  },
+  "user_id": {
+    "$oid": "64d70832374e1e465a62a1d4"
+  },
+  "reviews": "bad staffs",
+  "ratings": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d78"
+  },
+  "hotel_id": {
+    "$oid": "64d70891374e1e465a62a1e4"
+  },
+  "user_id": {
+    "$oid": "64d7081e374e1e465a62a1d0"
+  },
+  "reviews": "could be better",
+  "ratings": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d79"
+  },
+  "hotel_id": {
+    "$oid": "64d70896374e1e465a62a1e5"
+  },
+  "user_id": {
+    "$oid": "64d70822374e1e465a62a1d1"
+  },
+  "reviews": "satisfactory",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d7c"
+  },
+  "hotel_id": {
+    "$oid": "64d708a8374e1e465a62a1e8"
+  },
+  "user_id": {
+    "$oid": "64d70838374e1e465a62a1d5"
+  },
+  "reviews": "bad for kids",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d90"
+  },
+  "hotel_id": {
+    "$oid": "64cbd854e574351d906d0975"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350cc"
+  },
+  "reviews": "not bad",
+  "ratings": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d80"
+  },
+  "hotel_id": {
+    "$oid": "64d708be374e1e465a62a1ec"
+  },
+  "user_id": {
+    "$oid": "64d70848374e1e465a62a1d8"
+  },
+  "reviews": "bad experience",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df7e754a6961c9a2d75"
+  },
+  "hotel_id": {
+    "$oid": "64d70880374e1e465a62a1e1"
+  },
+  "user_id": {
+    "$oid": "64d7080d374e1e465a62a1cd"
+  },
+  "reviews": "tasty foods",
+  "ratings": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d7f"
+  },
+  "hotel_id": {
+    "$oid": "64d708b8374e1e465a62a1eb"
+  },
+  "user_id": {
+    "$oid": "64d70843374e1e465a62a1d7"
+  },
+  "reviews": "chill place to hang out",
+  "ratings": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d83"
+  },
+  "hotel_id": {
+    "$oid": "64d708ce374e1e465a62a1ef"
+  },
+  "user_id": {
+    "$oid": "64d70858374e1e465a62a1db"
+  },
+  "reviews": "nice hotel",
+  "ratings": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d7e"
+  },
+  "hotel_id": {
+    "$oid": "64d708b3374e1e465a62a1ea"
+  },
+  "user_id": {
+    "$oid": "64d7083e374e1e465a62a1d6"
+  },
+  "reviews": "mind refreshing",
+  "ratings": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d7a"
+  },
+  "hotel_id": {
+    "$oid": "64d7089d374e1e465a62a1e6"
+  },
+  "user_id": {
+    "$oid": "64d70828374e1e465a62a1d2"
+  },
+  "reviews": "good",
+  "ratings": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df7e754a6961c9a2d76"
+  },
+  "hotel_id": {
+    "$oid": "64d70885374e1e465a62a1e2"
+  },
+  "user_id": {
+    "$oid": "64d70813374e1e465a62a1ce"
+  },
+  "reviews": "nice hotel",
+  "ratings": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d81"
+  },
+  "hotel_id": {
+    "$oid": "64d708c3374e1e465a62a1ed"
+  },
+  "user_id": {
+    "$oid": "64d7084d374e1e465a62a1d9"
+  },
+  "reviews": "cleaner rooms",
+  "ratings": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d84"
+  },
+  "hotel_id": {
+    "$oid": "64d708d4374e1e465a62a1f0"
+  },
+  "user_id": {
+    "$oid": "64d70862374e1e465a62a1dc"
+  },
+  "reviews": "not bad",
+  "ratings": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d89"
+  },
+  "hotel_id": {
+    "$oid": "64c3dd1a80f67364b5f37e20"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350cc"
+  },
+  "reviews": "nice for stay",
+  "ratings": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d88"
+  },
+  "hotel_id": {
+    "$oid": "64cbd4d7e574351d906d0969"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350cc"
+  },
+  "reviews": "satisfactory",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df7e754a6961c9a2d74"
+  },
+  "hotel_id": {
+    "$oid": "64d7087b374e1e465a62a1e0"
+  },
+  "user_id": {
+    "$oid": "64d70809374e1e465a62a1cc"
+  },
+  "reviews": "nice hotel",
+  "ratings": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d7b"
+  },
+  "hotel_id": {
+    "$oid": "64d708a2374e1e465a62a1e7"
+  },
+  "user_id": {
+    "$oid": "64d7082d374e1e465a62a1d3"
+  },
+  "reviews": "well behaved staff",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d82"
+  },
+  "hotel_id": {
+    "$oid": "64d708c9374e1e465a62a1ee"
+  },
+  "user_id": {
+    "$oid": "64d70852374e1e465a62a1da"
+  },
+  "reviews": "good place for stay",
+  "ratings": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d93"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9096"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350cd"
+  },
+  "reviews": "well behaved staff",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d95"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9097"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350cd"
+  },
+  "reviews": "cleaner rooms",
+  "ratings": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d94"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9098"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350cd"
+  },
+  "reviews": "bad for kids",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d96"
+  },
+  "hotel_id": {
+    "$oid": "64cbd854e574351d906d0975"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350ce"
+  },
+  "reviews": "not bad",
+  "ratings": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d97"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad908f"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350ce"
+  },
+  "reviews": "bad staffs",
+  "ratings": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d9a"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9094"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350ce"
+  },
+  "reviews": "bad experience",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d9b"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9096"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350ce"
+  },
+  "reviews": "well behaved staff",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d9d"
+  },
+  "hotel_id": {
+    "$oid": "64cbd5d1e574351d906d096f"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350ce"
+  },
+  "reviews": "could be better",
+  "ratings": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d99"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9091"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350ce"
+  },
+  "reviews": "tasty foods",
+  "ratings": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d9c"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad908e"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350ce"
+  },
+  "reviews": "nice nice",
+  "ratings": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d98"
+  },
+  "hotel_id": {
+    "$oid": "64cbd4d7e574351d906d0969"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350ce"
+  },
+  "reviews": "satisfactory",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d9e"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9092"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350ce"
+  },
+  "reviews": "mind refreshing",
+  "ratings": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2d9f"
+  },
+  "hotel_id": {
+    "$oid": "64cbd8e3e574351d906d097b"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350ce"
+  },
+  "reviews": "nice hotel",
+  "ratings": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2da2"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9090"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350ce"
+  },
+  "reviews": "good",
+  "ratings": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2da1"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9095"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350ce"
+  },
+  "reviews": "good place for stay",
+  "ratings": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2da5"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9093"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350cf"
+  },
+  "reviews": "chill place to hang out",
+  "ratings": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2da4"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9090"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350cf"
+  },
+  "reviews": "good",
+  "ratings": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2da8"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9090"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350d0"
+  },
+  "reviews": "good",
+  "ratings": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2da0"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9093"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350ce"
+  },
+  "reviews": "chill place to hang out",
+  "ratings": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2da3"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9092"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350cf"
+  },
+  "reviews": "mind refreshing",
+  "ratings": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dac"
+  },
+  "hotel_id": {
+    "$oid": "64cbd4d7e574351d906d0969"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350d1"
+  },
+  "reviews": "satisfactory",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2da7"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9091"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350d0"
+  },
+  "reviews": "tasty foods",
+  "ratings": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2db1"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9097"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350d2"
+  },
+  "reviews": "cleaner rooms",
+  "ratings": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2daa"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9094"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350d0"
+  },
+  "reviews": "bad experience",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dab"
+  },
+  "hotel_id": {
+    "$oid": "64c3dd1a80f67364b5f37e20"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350d1"
+  },
+  "reviews": "nice hotel",
+  "ratings": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2db0"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9095"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350d2"
+  },
+  "reviews": "good place for stay",
+  "ratings": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2da9"
+  },
+  "hotel_id": {
+    "$oid": "64cbd4d7e574351d906d0969"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350d0"
+  },
+  "reviews": "satisfactory",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dad"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9090"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350d2"
+  },
+  "reviews": "good",
+  "ratings": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2da6"
+  },
+  "hotel_id": {
+    "$oid": "64cbd8e3e574351d906d097b"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350cf"
+  },
+  "reviews": "nice hotel",
+  "ratings": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2db3"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9098"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350d2"
+  },
+  "reviews": "bad for kids",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2db4"
+  },
+  "hotel_id": {
+    "$oid": "64c3dd1a80f67364b5f37e20"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350d2"
+  },
+  "reviews": "nice hotel",
+  "ratings": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2db7"
+  },
+  "hotel_id": {
+    "$oid": "64c3dd1a80f67364b5f37e20"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350d3"
+  },
+  "reviews": "nice hotel",
+  "ratings": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2db6"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9091"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350d2"
+  },
+  "reviews": "tasty foods",
+  "ratings": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dae"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9092"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350d2"
+  },
+  "reviews": "mind refreshing",
+  "ratings": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2daf"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9094"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350d2"
+  },
+  "reviews": "bad experience",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2db8"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9098"
+  },
+  "user_id": {
+    "$oid": "64d4e9c871d6db9835f1d566"
+  },
+  "reviews": "bad for kids",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2db5"
+  },
+  "hotel_id": {
+    "$oid": "64cbd5d1e574351d906d096f"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350d2"
+  },
+  "reviews": "could be better",
+  "ratings": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2db9"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9095"
+  },
+  "user_id": {
+    "$oid": "64d4e9c871d6db9835f1d566"
+  },
+  "reviews": "good place for stay",
+  "ratings": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dbd"
+  },
+  "hotel_id": {
+    "$oid": "64c3dd1a80f67364b5f37e20"
+  },
+  "user_id": {
+    "$oid": "64d4ffb2a677aa22c867c3a3"
+  },
+  "reviews": "nice hotel",
+  "ratings": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dbe"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9096"
+  },
+  "user_id": {
+    "$oid": "64d4ffb2a677aa22c867c3a3"
+  },
+  "reviews": "well behaved staff",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dc0"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad908f"
+  },
+  "user_id": {
+    "$oid": "64d5008ea677aa22c867c3aa"
+  },
+  "reviews": "bad staffs",
+  "ratings": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dbc"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad908f"
+  },
+  "user_id": {
+    "$oid": "64d4ffb2a677aa22c867c3a3"
+  },
+  "reviews": "bad staffs",
+  "ratings": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dbb"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9095"
+  },
+  "user_id": {
+    "$oid": "64d4ffb2a677aa22c867c3a3"
+  },
+  "reviews": "good place for stay",
+  "ratings": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dbf"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9090"
+  },
+  "user_id": {
+    "$oid": "64d5008ea677aa22c867c3aa"
+  },
+  "reviews": "good",
+  "ratings": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dc3"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9094"
+  },
+  "user_id": {
+    "$oid": "64d500d7a677aa22c867c3b2"
+  },
+  "reviews": "bad experience",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dc2"
+  },
+  "hotel_id": {
+    "$oid": "64cbd8e3e574351d906d097b"
+  },
+  "user_id": {
+    "$oid": "64d500d7a677aa22c867c3b2"
+  },
+  "reviews": "nice hotel",
+  "ratings": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dc5"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9098"
+  },
+  "user_id": {
+    "$oid": "64d500d7a677aa22c867c3b2"
+  },
+  "reviews": "bad for kids",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dc4"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9097"
+  },
+  "user_id": {
+    "$oid": "64d500d7a677aa22c867c3b2"
+  },
+  "reviews": "cleaner rooms",
+  "ratings": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dc7"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9096"
+  },
+  "user_id": {
+    "$oid": "64d500d7a677aa22c867c3b2"
+  },
+  "reviews": "well behaved staff",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dc9"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9095"
+  },
+  "user_id": {
+    "$oid": "64d500d7a677aa22c867c3b2"
+  },
+  "reviews": "good place for stay",
+  "ratings": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dc8"
+  },
+  "hotel_id": {
+    "$oid": "64cbd5d1e574351d906d096f"
+  },
+  "user_id": {
+    "$oid": "64d500d7a677aa22c867c3b2"
+  },
+  "reviews": "could be better",
+  "ratings": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dc1"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9098"
+  },
+  "user_id": {
+    "$oid": "64d5008ea677aa22c867c3aa"
+  },
+  "reviews": "bad for kids",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dca"
+  },
+  "hotel_id": {
+    "$oid": "64c3dd1a80f67364b5f37e20"
+  },
+  "user_id": {
+    "$oid": "64d500d7a677aa22c867c3b2"
+  },
+  "reviews": "nice hotel",
+  "ratings": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dd3"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9097"
+  },
+  "user_id": {
+    "$oid": "64d5012aa677aa22c867c3c0"
+  },
+  "reviews": "cleaner rooms",
+  "ratings": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dce"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9095"
+  },
+  "user_id": {
+    "$oid": "64d500ffa677aa22c867c3b9"
+  },
+  "reviews": "good place for stay",
+  "ratings": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dcb"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9098"
+  },
+  "user_id": {
+    "$oid": "64d500ffa677aa22c867c3b9"
+  },
+  "reviews": "bad for kids",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dcf"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9097"
+  },
+  "user_id": {
+    "$oid": "64d500ffa677aa22c867c3b9"
+  },
+  "reviews": "cleaner rooms",
+  "ratings": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dcc"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9096"
+  },
+  "user_id": {
+    "$oid": "64d500ffa677aa22c867c3b9"
+  },
+  "reviews": "well behaved staff",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dc6"
+  },
+  "hotel_id": {
+    "$oid": "64cbd4d7e574351d906d0969"
+  },
+  "user_id": {
+    "$oid": "64d500d7a677aa22c867c3b2"
+  },
+  "reviews": "satisfactory",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dcd"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9094"
+  },
+  "user_id": {
+    "$oid": "64d500ffa677aa22c867c3b9"
+  },
+  "reviews": "bad experience",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dd4"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9093"
+  },
+  "user_id": {
+    "$oid": "64d5012aa677aa22c867c3c0"
+  },
+  "reviews": "chill place to hang out",
+  "ratings": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dd1"
+  },
+  "hotel_id": {
+    "$oid": "64cbd5d1e574351d906d096f"
+  },
+  "user_id": {
+    "$oid": "64d5012aa677aa22c867c3c0"
+  },
+  "reviews": "could be better",
+  "ratings": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dd2"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9096"
+  },
+  "user_id": {
+    "$oid": "64d5012aa677aa22c867c3c0"
+  },
+  "reviews": "well behaved staff",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dd6"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9094"
+  },
+  "user_id": {
+    "$oid": "64d5012aa677aa22c867c3c0"
+  },
+  "reviews": "bad experience",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dd0"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9095"
+  },
+  "user_id": {
+    "$oid": "64d5012aa677aa22c867c3c0"
+  },
+  "reviews": "good place for stay",
+  "ratings": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dd5"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad9098"
+  },
+  "user_id": {
+    "$oid": "64d5012aa677aa22c867c3c0"
+  },
+  "reviews": "bad for kids",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2db2"
+  },
+  "hotel_id": {
+    "$oid": "64cbd4d7e574351d906d0969"
+  },
+  "user_id": {
+    "$oid": "64d26592c3022d2d120350d2"
+  },
+  "reviews": "satisfactory",
+  "ratings": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72df8e754a6961c9a2dba"
+  },
+  "hotel_id": {
+    "$oid": "64d269105c732dc987ad908e"
+  },
+  "user_id": {
+    "$oid": "64d4ffb2a677aa22c867c3a3"
+  },
+  "reviews": "nice nice",
+  "ratings": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d74610e6008a94d444f47d"
+  },
+  "hotel_id": {
+    "$oid": "64d7086b374e1e465a62a1dd"
+  },
+  "user_id": {
+    "$oid": "64d70644374e1e465a62a1c7"
+  },
+  "reviews": "bad experience at hotel",
+  "ratings": 5,
+  "__v": 0
+}]

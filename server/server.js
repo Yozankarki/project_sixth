@@ -8,6 +8,7 @@ const express = require('express'),
 const connection = require('./Database/Connection');
 const userRouter = require('./router/AuthRoute');
 const RoomRouter = require('./router/RoomRoute');
+const RecommendRouter = require('./router/Recommend');
 
 /*middlewares */
 app.use(express.json());
@@ -26,6 +27,9 @@ app.use('/api', userRouter);
 
 //use the router for rooms
 app.use('/room', RoomRouter);
+
+//use the router for recommend
+app.use('/recommend', RecommendRouter);
 
 //connection to the server
 const port = process.env.PORT || 3000;

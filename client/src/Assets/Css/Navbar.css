@@ -2,12 +2,12 @@ header {
   height: calc(100vh);
 }
 
-nav {
+.background-image nav {
   padding: 3% 10%;
 }
 
-nav,
-nav li a {
+.background-image nav,
+.background-image nav li {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -15,24 +15,28 @@ nav li a {
   cursor: pointer;
 }
 
-span {
+.background-image span {
   color: red;
   text-transform: lowercase;
   font-size: 45px;
 }
 
-nav li:hover {
+.background-image nav li:hover {
   color: #fff;
   opacity: 1;
 }
 
-ul li {
+.background-image ul li {
   display: inline-block;
   padding: 18px;
   list-style: none;
   font-family: cursive;
 }
 
+.secondary-nav {
+  display: flex;
+  flex-direction: row;
+}
 
 .secondary-nav li {
   display: inline-block;
