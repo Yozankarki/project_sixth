@@ -9,6 +9,7 @@ const connection = require('./Database/Connection');
 const userRouter = require('./router/AuthRoute');
 const RoomRouter = require('./router/RoomRoute');
 const RecommendRouter = require('./router/Recommend');
+const BookingRouter = require('./router/BookingRoute');
 
 /*middlewares */
 app.use(express.json());
@@ -31,9 +32,12 @@ app.use('/room', RoomRouter);
 //use the router for recommend
 app.use('/recommend', RecommendRouter);
 
+//use the router for Booking
+app.use('/booking', BookingRouter);
+
 //connection to the server
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
     connection();
-    console.log(`server started at http://localhost:${3000}`);
+    console.log(`server started at http://localhost:${port}`);
 })

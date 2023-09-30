@@ -6,6 +6,7 @@ import Navbar from "../Components/Navbar";
 import Footer from "./Footer";
 import Rating from "react-rating";
 import Slider from "./Slider";
+
 export default function PreviewRooms() {
   const [rating, setRating] = useState(1);
   //this below code is for finding room id from url
@@ -40,18 +41,18 @@ export default function PreviewRooms() {
           <div className="card-column" key={room._id}>
             <a href="">
               <img
-                src={`../../src/Assets/images/Room/${room.image}`}
+                src={`../../src/Assets/images/Room/${room.Images}`}
                 alt="some image"
               />
             </a>
             <div className="card-room-body">
               <h3>
-                <a href="#">{room.type}</a>
+                <a href="#">{room.Type}</a>
               </h3>
-              <strong>From RS.{room.price} / per night</strong>
+              <strong>From {room.Price} / per night</strong>
               <br />
-              <strong>Location: {room.location}</strong>
-              <p>{room.description}</p>
+              <strong>Location: {room.Location}</strong>
+              <p>{room.Reviews}</p>
               <div>
                 <Rating
                   emptySymbol={<i className="fa fa-star-o small-star" />}
@@ -67,7 +68,7 @@ export default function PreviewRooms() {
                 )}
               </div>
               <div>
-                <a href="#">
+                <a href="/BookNow">
                   BOOK NOW{" "}
                   <i className="fa fa-angle-right fa-1x" aria-hidden="true"></i>
                 </a>
@@ -76,7 +77,7 @@ export default function PreviewRooms() {
           </div>
         </div>
       </main>
-      <Slider />
+      <Slider location={room.Location} price={room.Price} type={room.Type} />
       <Footer />
     </>
   );

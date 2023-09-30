@@ -1,3 +1,4 @@
+import { useParams } from "react-router-dom";
 import "../../src/Assets/Css/Slider.css";
 import Slider from "react-slick";
 
@@ -13,7 +14,11 @@ function SampleNextArrow(props) {
   );
 }
 
-export default function Recommender() {
+export default function Recommender(props) {
+  console.log(props);
+  const { roomID } = useParams();
+  console.log(roomID);
+
   var settings = {
     dots: true,
     infinite: false,

@@ -113,7 +113,7 @@ module.exports.updateUser = async (req, res, next) => {
       const body = req.body;
       const updateUser = await User.updateOne({ _id: id }, body);
       if (!body) return res.status(404).send({ error: "Nothing to update." });
-      else res.status(201).send({ msg: 'Record Updated Successfully...' });
+      else res.status(201).send({ msg: 'Record Updated Successfully...' , updateUser});
     } else {
       return res.status(401).send({ error: 'User Not Found...!' })
     }

@@ -1,12 +1,8 @@
 const express = require('express');
 const router = express.Router();
-const { userReviews } = require("../Controllers/RecommendController");
-
-router.get('/', (req, res) => {
-    res.send('Hello, RoomController!');
-});
+const { recommend } = require("../Controllers/RecommendController");
 
 
-router.route('/add').get(userReviews);
+router.route('/').get(recommend);
 
 module.exports = router;

@@ -1,27 +1,48 @@
 const mongoose = require('mongoose');
 const roomSchema = new mongoose.Schema({
-    type: {
+    Name: {
         type: String,
-        required: [true, "Please specify the type."],
-        max: [20, "Maximum length exceeded."]
+        required: [true, "Please Enter Room Name."],
+        max: [20, "Maximum length exceeded"]
     },
-    price: {
+    Price: {
+        type: String,
+        required: [true, "Please enter Price."],
+        max: [10, "Maximum length exceeded"]
+    },
+    Location: {
+        type: String,
+        required: [true, "Please enter Location."],
+        max: [20, "Maximum length exceeded"]
+    },
+    Rating: {
         type: Number,
-        required: true
+        required: true,
+        max: 10
     },
-    description: {
+    Reviews: {
         type: String,
         required: [true, "Enter Room Description"],
         min: [3, "Description is smaller than expected."],
         max: [100, 'Maximum length of the field is exceeded'],
         unique: false,
     },
-    location: {
+    Type: {
         type: String,
-        required: [true, "Enter Location"],
+        required: [true, "Please specify the type."],
+        max: [20, "Maximum length exceeded."]
     },
-    image: {
+    Images: {
         type: String,
+    },
+    Pool: {
+        type: String
+    },
+    Gym: {
+        type: String
+    },
+    Spa: {
+        type: String
     }
 })
 roomSchema.pre("save", async function (next) {

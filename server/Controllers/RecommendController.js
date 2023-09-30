@@ -1,21 +1,50 @@
 require('dotenv').config();
-const Reviews = require('../Model/ReviewSchema');
+const axios = require('axios');
 
-module.exports.userReviews = async (req, res, next) => {
+let rooms = [];
+
+async function fetchData() {
     try {
-        const review = new Reviews({
-            "reviews": "bad experience at hotel",
-            "ratings": 5,
-            "hotel_id": "64d7086b374e1e465a62a1dd",
-            "user_id": "64d70644374e1e465a62a1c7"
-        });
-        await review.save();
-        return res.status(201).json({ message: "Reviews added successfully.", review });
+        const response = await axios.get('http://localhost:3000/room/allrooms');
+        rooms = response.data;
+        console.log('Data fetched from the API.');
     } catch (error) {
-        if (error.code === 11000) {
-            return res.status(400).json({ error: "Duplicate review for the same hotel by the same user" });
-        } else {
-            return res.status(400).json({ error: "Error saving review:", error });
-        }
+        console.error('Error fetching data from the API:', error.message);
     }
+}
+
+// Call fetchData to fetch data before starting the server
+fetchData();
+
+module.exports.recommend = async (req, res, next) => {
+    const searchLocation = req.query.location || '';
+    const searchRoomType = req.query.type || '';
+    if (!rooms.length) {
+        return res.status(500).json({ error: "Data not available." });
+    }
+    const recommendations = rooms.map((room) => {
+        const locationWords = new Set((room.Location || '').toLowerCase().split(' ')); 
+        const roomTypeWords = new Set((room.RoomType || '').toLowerCase().split(' ')); 
+        const queryLocationWords = new Set(searchLocation.toLowerCase().split(' '));
+        const queryRoomTypeWords = new Set(searchRoomType.toLowerCase().split(' '));
+
+        // Calculate Jaccard Similarity for location
+        const locationIntersection = new Set([...locationWords].filter((word) => queryLocationWords.has(word)));
+        const locationUnion = new Set([...locationWords, ...queryLocationWords]);
+        const locationSimilarity = locationUnion.size === 0 ? 0 : locationIntersection.size / locationUnion.size;
+
+        // Calculate Jaccard Similarity for room type
+        const roomTypeIntersection = new Set([...roomTypeWords].filter((word) => queryRoomTypeWords.has(word)));
+        const roomTypeUnion = new Set([...roomTypeWords, ...queryRoomTypeWords]);
+        const roomTypeSimilarity = roomTypeUnion.size === 0 ? 0 : roomTypeIntersection.size / roomTypeUnion.size;
+
+        const similarity = 0.6 * locationSimilarity + 0.4 * roomTypeSimilarity;
+        return {
+            ...room,
+            similarity,
+        };
+    });
+    recommendations.sort((a, b) => b.similarity - a.similarity);
+    const topRecommendation = recommendations.slice(0, 10);
+    res.json(topRecommendation);
 }

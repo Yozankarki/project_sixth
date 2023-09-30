@@ -10,7 +10,7 @@ const root = createRoot(container);
 root.render(
   <Provider store={Store}>
     <BrowserRouter>
-      <App />
+      <App />   
     </BrowserRouter>
   </Provider>
 );

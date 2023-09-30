@@ -18,7 +18,7 @@ const reviewSchema = new mongoose.Schema({
         max: [100, 'Maximum length of the field is exceeded'],
         unique: false,
     },
-    ratings: {  // Corrected field name to "rating" from "ratings"
+    ratings: {  
         type: Number,
         required: [true, "Enter rating"],
         min: 0,

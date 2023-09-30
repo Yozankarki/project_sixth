@@ -14,6 +14,7 @@ export default function Rooms() {
   useEffect(() => {
     dispatch(getAllData());
   }, [dispatch]);
+  console.log(roomData.rooms);
 
   return (
     <main className="room-section">
@@ -35,15 +36,15 @@ export default function Rooms() {
               >
                 <figure>
                   <img
-                    src={`../../src/Assets/images/Room/${e.image}`}
+                    src={`../../src/Assets/images/Room/${e.Images}`}
                     alt="some image"
                   />
                 </figure>
                 <div className="card-room-body">
                   <h3>
-                    <a href="#">{e.type}</a>
+                    <a href="#">{e.Type}</a>
                   </h3>
-                  <strong>RS.{e.price}/ per night</strong>
+                  <strong>{e.Price}/ per night</strong>
                 </div>
               </div>
             );

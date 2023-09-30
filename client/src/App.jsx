@@ -9,6 +9,10 @@ import PageNotFound from "./PageNotFound";
 import Footer from "./Components/Footer";
 import Dashboard from "./Components/Admin/Dashboard";
 import PreviewRooms from "./Components/PreviewRooms";
+import BookNow from "./Components/auth/BookNow";
+import Orders from "./Components/Admin/Orders";
+import BookedRooms from "./Components/Admin/BookedRooms";
+import Customers from "./Components/Admin/Customers";
 export default function App() {
   return (
     <Routes>
@@ -28,7 +32,13 @@ export default function App() {
       <Route path="/Register" element={<Register />} />
       <Route path="/Dashboard" element={<Dashboard />} />
       <Route path="/room/:roomID" element={<PreviewRooms />} />
+      <Route path="/BookNow" element={<BookNow />} />
       <Route path="*" element={<PageNotFound />} />
+
+      {/* admin routes */}
+      <Route path="/admin/Orders" element={<Orders />} />
+      <Route path="/admin/BookedRooms" element={<BookedRooms />} />
+      <Route path="/admin/Customers" element={<Customers/>}/>
     </Routes>
   );
 }
