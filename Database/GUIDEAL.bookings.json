@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "651550ca618df88ee6bcbcc4"
+  },
+  "CheckIn": {
+    "$date": "2023-09-29T00:00:00.000Z"
+  },
+  "CheckOut": {
+    "$date": "2023-09-30T00:00:00.000Z"
+  },
+  "No_of_rooms": 2,
+  "Adults": 2,
+  "Children": 1,
+  "Booked_room_Id": "6512ff68ba09ed8c891375a4",
+  "Booked_user_Id": "64bf3714a83a39d228f3e6fa",
+  "__v": 0
+}]

@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { getAllData } from "../Features/rooms/getRoomSlice";
 import Navbar from "../Components/Navbar";
 import Footer from "./Footer";
@@ -53,6 +53,7 @@ export default function PreviewRooms() {
               <br />
               <strong>Location: {room.Location}</strong>
               <p>{room.Reviews}</p>
+              <p>Rating: {room.Rating}</p>
               <div>
                 <Rating
                   emptySymbol={<i className="fa fa-star-o small-star" />}
@@ -68,16 +69,21 @@ export default function PreviewRooms() {
                 )}
               </div>
               <div>
-                <a href="/BookNow">
+                <Link to={`/BookNow/${room._id}`}>
                   BOOK NOW{" "}
                   <i className="fa fa-angle-right fa-1x" aria-hidden="true"></i>
-                </a>
+                </Link>
               </div>
             </div>
           </div>
         </div>
       </main>
-      <Slider location={room.Location} price={room.Price} type={room.Type} />
+      <Slider
+        location={room.Location}
+        price={room.Price}
+        type={room.Type}
+        rating={room.Rating}
+      />
       <Footer />
     </>
   );

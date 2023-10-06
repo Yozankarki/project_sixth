@@ -32,13 +32,13 @@ export default function App() {
       <Route path="/Register" element={<Register />} />
       <Route path="/Dashboard" element={<Dashboard />} />
       <Route path="/room/:roomID" element={<PreviewRooms />} />
-      <Route path="/BookNow" element={<BookNow />} />
+      <Route path="/BookNow/:id" element={<BookNow />} />
       <Route path="*" element={<PageNotFound />} />
 
       {/* admin routes */}
       <Route path="/admin/Orders" element={<Orders />} />
       <Route path="/admin/BookedRooms" element={<BookedRooms />} />
-      <Route path="/admin/Customers" element={<Customers/>}/>
+      <Route path="/admin/Customers" element={<Customers />} />
     </Routes>
   );
 }

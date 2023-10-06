@@ -1,0 +1,4485 @@
+[{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abcf9"
+  },
+  "Name": "Hotel No 2",
+  "Price": 2000,
+  "Location": "Lalitpur",
+  "Rating": 2,
+  "Reviews": "Our experience at Rancho Valencia was absolutely perfect from beginning to end!!!! We felt special and very happy during our stayed. I would come back in a heart beat!!!",
+  "Type": "standard roomK19",
+  "Images": "Room15.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abcfa"
+  },
+  "Name": "Hotel No 3",
+  "Price": 4000,
+  "Location": "Biratnagar",
+  "Rating": 3,
+  "Reviews": "Amazing place. Everyone was extremely warm and welcoming. We've stayed at some top notch places and this is definitely in our top 2. Great for a romantic getaway or take the kids along as we did. Had a couple stuffed animals waiting for our girls upon arrival. Can't wait to go back.",
+  "Type": "luxury suite",
+  "Images": "Room12.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abcfb"
+  },
+  "Name": "Hotel No 4",
+  "Price": 3500,
+  "Location": "Kathmandu",
+  "Rating": 4,
+  "Reviews": "We booked a 3 night stay at Rancho Valencia to play some tennis, since it is one of the highest rated tennis resorts in America. This place is really over the top from a luxury standpoint and overall experience. The villas are really perfect, the staff is great, attention to details (includes fresh squeezed orange juice each morning), restaurants, bar and room service amazing, and the tennis program was really impressive as well. We will want to come back here again.",
+  "Type": "luxury suite",
+  "Images": "Room13.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abcfc"
+  },
+  "Name": "Hotel No 5",
+  "Price": 1500,
+  "Location": "Biratnagar",
+  "Rating": 4,
+  "Reviews": "Currently in bed writing this for the past hr 1/2 there have been dogs barking and squealing call the front desk to advise basically to be told there's nothing they can do. 315.00 and I can't sleep.",
+  "Type": "standard room",
+  "Images": "Room12.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abcfd"
+  },
+  "Name": "Hotel No 6",
+  "Price": 1500,
+  "Location": "Kathmandu",
+  "Rating": 2,
+  "Reviews": "I live in Md and the Aloft is my Home away from home...we stayed 1 night 7-7-16 ...Staff is great ! Especially Olivia who was Extra special because she remembered me by my voice over the phone ...which tells me she is very alert and pays attention to the customer their needs.AND SHE DID ! Thumbs up... More",
+  "Type": "standard room",
+  "Images": "Room5.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abcfe"
+  },
+  "Name": "Hotel No 7",
+  "Price": 2000,
+  "Location": "Lalitpur",
+  "Rating": 2,
+  "Reviews": "I stayed here with my family for my daughters wedding. It had a very accommodating staff, Olivia was excellent. The rooms were very well maintained. Would highly recommend this hotel, especially if your wedding venue is Celebrations at the Bay!",
+  "Type": "family room",
+  "Images": "Room2.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abcff"
+  },
+  "Name": "Hotel No 8",
+  "Price": 2000,
+  "Location": "Biratnagar",
+  "Rating": 2,
+  "Reviews": "Beautiful rooms and the nicest people working there. The front desk lady, Olivia, was extremely patient and helpful. We had lots of questions and she had just as many answers. The rooms were sleek and modern. The only thing that would make this hotel better would be free breakfast, but I really am asking for a lot. A++ stay. Thank... More",
+  "Type": "deluxe hotel room",
+  "Images": "Room4.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd00"
+  },
+  "Name": "Hotel No 9",
+  "Price": 1000,
+  "Location": " Pokhara",
+  "Rating": 3,
+  "Reviews": "We stayed here while visiting Maryland Live!. Cute hotel in a great location. Clean, with a very modern look, upgraded bathrooms and amenities and super nice staff. Would definitely recommend and stay there again!",
+  "Type": "family room",
+  "Images": "Room14.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd01"
+  },
+  "Name": "Hotel No 10",
+  "Price": 1000,
+  "Location": "Bharatpur",
+  "Rating": 5,
+  "Reviews": "I travel a lot with my job, so I'm constantly staying at hotels. When my co-workers and I arrived late last night at the Aloft the people at the front desk were more than welcoming. When I wanted to order room service I was told it was too late however, Olivia at the front desk informed me of a Italian... More",
+  "Type": "deluxe hotel room",
+  "Images": "Room3.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd02"
+  },
+  "Name": "Hotel No 11",
+  "Price": 4000,
+  "Location": " Pokhara",
+  "Rating": 5,
+  "Reviews": "In my line of work, I use meeting space in hotels often. In my 15+ years of doing this work, this is the first time I've felt the undeniable pull to go out and write a hotel review, based solely on my meeting room experience. Though I did not use a guest room here, my colleagues who did shared that... More",
+  "Type": "family room",
+  "Images": "Room5.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd03"
+  },
+  "Name": "Hotel No 12",
+  "Price": 4000,
+  "Location": "Birgunj",
+  "Rating": 4,
+  "Reviews": "The staff is very friendly and helpful. The rooms are large and nicely furnished. Feels new, as if we were the first to stay there. Actually it is more opulent than I require. The free breakfast was good with sufficient choices including fresh fruit salad, eggs, bacon, bagels and pastries and more. It was a great location for our purpose:... More",
+  "Type": "standard deluxe",
+  "Images": "Room8.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd04"
+  },
+  "Name": "Hotel No 13",
+  "Price": 1500,
+  "Location": "Kathmandu",
+  "Rating": 3,
+  "Reviews": "Very friendly staff, great free breakfast items each morning, room and facilities very clean, staff superb! We had a problem with the heating system in our room and they had someone fix it within minutes! Would highly recommend this location/hotel.",
+  "Type": "junior suite room",
+  "Images": "Room4.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd05"
+  },
+  "Name": "Hotel No 14",
+  "Price": 4000,
+  "Location": "Bharatpur",
+  "Rating": 4,
+  "Reviews": "Upon arriving I see modern yet elegant decor which is pleasing to the eye. The front staff are very friendly. The room was clean including details, I'm talking no dust,no hair in bathroom-shower or beds which I tend to find in other hotels. Kudos to housekeeping. Sheets were crisp,beds were comfortable especially since this is a newer hotel. Breakfast in... More",
+  "Type": "family room",
+  "Images": "Room5.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd06"
+  },
+  "Name": "Hotel No 15",
+  "Price": 3500,
+  "Location": "Biratnagar",
+  "Rating": 5,
+  "Reviews": "This is a nice hotel with great staff. I have young children and the entire staff from the front desk staff to the breakfast staff were there to help us. This was our first visit to the Portland area and we plan to go back later this summer. We will stay at this hotel when we return.",
+  "Type": "deluxe hotel room",
+  "Images": "Room6.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd07"
+  },
+  "Name": "Hotel No 16",
+  "Price": 3000,
+  "Location": "Birgunj",
+  "Rating": 4,
+  "Reviews": "Beautiful property and every staff member I encountered (front desk, housekeeping, breakfast hosts and GM) provided beyond excellent customer service! It's also conveniently located near restaurants, grocery stores starbucks and is a short drive to the freeways. I will definitely be back!",
+  "Type": "standard deluxe",
+  "Images": "Room10.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd08"
+  },
+  "Name": "Hotel No 17",
+  "Price": 1500,
+  "Location": "Biratnagar",
+  "Rating": 4,
+  "Reviews": "Old hotel with many remaining architectural charms and most modern amenities. The staff is exceptional: friendly and very accommodating. Has a little bit of the wear tear around the edges associated with an historic building but remarkably clean. Passed the allergy test.",
+  "Type": "standard room",
+  "Images": "Room6.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd09"
+  },
+  "Name": "Hotel No 18",
+  "Price": 4000,
+  "Location": "Bharatpur",
+  "Rating": 5,
+  "Reviews": "Very comfortable room. Our son came and they had a couch that they pulled out into a queen size bed. Free wifi and bottled water. This hotel was built back in the 20's and the decor is fabulous. A very neat hotel.",
+  "Type": "luxury suite",
+  "Images": "Room15.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd0a"
+  },
+  "Name": "Hotel No 19",
+  "Price": 3500,
+  "Location": "Biratnagar",
+  "Rating": 4,
+  "Reviews": "Stayed here for second time recently. Gorgeous lobby. Friendly staff. Good free shuttle service. Our room this time was disappointing. King bed in too small space so that one side did not even have a lamp. Also the heating/cooling unit was right next to the bed and very noisy so we turned it off. Luckily it was not needed. Room... More",
+  "Type": "luxury suite",
+  "Images": "Room6.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd0b"
+  },
+  "Name": "Hotel No 20",
+  "Price": 1000,
+  "Location": "Bharatpur",
+  "Rating": 3,
+  "Reviews": "My husband and I always try to stay at the Hotel Phillips when we are in Kansas City. It is our favorite hotel and we have stayed at many. I feel at home there and the staff has always been exceptional, although we are not particularly demanding guests. Over the years we have probably spent at least 20 nights there.... More",
+  "Type": "family room",
+  "Images": "Room6.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd0c"
+  },
+  "Name": "Hotel No 21",
+  "Price": 3500,
+  "Location": "Biratnagar",
+  "Rating": 3,
+  "Reviews": "Just stayed one night but very happy. Nice, comfortable top floor room. Staff could not have been more helpful. Great location right by the Power Light district. Be prepared to pay for valet parking. Price of this was Offset though by free wine and cheese reception.",
+  "Type": "standard deluxe",
+  "Images": "Room11.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd0d"
+  },
+  "Name": "Hotel No 22",
+  "Price": 2000,
+  "Location": " Pokhara",
+  "Rating": 3,
+  "Reviews": "Everything was sold out in State College for Garth's concerts and the Inn came up as available...what an amazing find!! I'll be making the drive now each visit, just to stay there! The Inn is wonderfully decorated and I so enjoyed browsing all the books. Breakfast was amazing each morning. Thank you Stephanie and team!!",
+  "Type": "deluxe hotel room",
+  "Images": "Room3.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd0e"
+  },
+  "Name": "Hotel No 23",
+  "Price": 3000,
+  "Location": "Birgunj",
+  "Rating": 3,
+  "Reviews": "I work here in Perry about 6 days out of the week. The People here are very friendly and willing to make your stay better. The hotel is great for my simple needs as I'm away from home. The rooms and hallways smell very clean each time I enter and leave. I will continue my business here for sure.",
+  "Type": "junior suite room",
+  "Images": "Room1.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd0f"
+  },
+  "Name": "Hotel No 24",
+  "Price": 3000,
+  "Location": "Lalitpur",
+  "Rating": 5,
+  "Reviews": "The hotel is just one of many that are on this new trend of firmer pillows and mattresses. This is the third hotel I have stayed in the last few months that have had firmer vs softer mattresses in their rooms. Aside from the bed The room was well appointed, comfortable and really The bonus Those super plushy and comfy robes in the closet. I miss a good hotel robe and this one had one!! Another little thing I loved was the spa water and coffee service in the lobby. High quality coffee and the New York Times Count me in! The maid service was friendly, attentive, and I even got a little note. Would totally stay again.",
+  "Type": "luxury suite",
+  "Images": "Room15.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd10"
+  },
+  "Name": "Hotel No 25",
+  "Price": 4000,
+  "Location": "Lalitpur",
+  "Rating": 5,
+  "Reviews": "excellent location near convention center. friendly, willing staff. not a true luxury hotel in terms of the room I received, but a comfortable clean room, I didn't really need any more than that. After all you're here to visit San Francisco, not the hotel.",
+  "Type": "luxury suite",
+  "Images": "Room2.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd11"
+  },
+  "Name": "Hotel No 26",
+  "Price": 1500,
+  "Location": "Birgunj",
+  "Rating": 4,
+  "Reviews": "Hotel Zelos was a great place to stay in San Francisco. The staff is definitely the highlight of the hotel. The hotel itself is great: clean, well decorated, etc, but the people who work there were very helpful and friendly. The location is great being right next to the Powell BART station but the neighborhood is under construction. This obviously isn't the fault of the hotel and won't impact your stay. We couldn't hear any of the construction, but it makes it a little more difficult to get around. Overall, I definitely recommend Hotel Zelos!",
+  "Type": "family room",
+  "Images": "Room1.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd12"
+  },
+  "Name": "Hotel No 27",
+  "Price": 1000,
+  "Location": "Bharatpur",
+  "Rating": 4,
+  "Reviews": "Pros: the location is awesome, the room size is great, the bathroom is nice also with a nice tub. Bad: the style and furniture starts to get really old, no breakfast despite the high price, the price is high, nothing exeptionnal... We were 4 people and so 4 reservations. Unfortunately one was missing. It was 1am so very bad surprise.... More",
+  "Type": "junior suite room",
+  "Images": "Room7.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd13"
+  },
+  "Name": "Hotel No 28",
+  "Price": 3500,
+  "Location": " Pokhara",
+  "Rating": 3,
+  "Reviews": "After getting the bait and switch I decided I'd rather stay anywhere else. I'm sure I wasnt missing much as it looks like project style crack house apartments. The front desk (old middle eastern lady) was extremely rude and up charged me 50 when I got there! I travel and stay in hotels 250 days/ year and trust me this... More",
+  "Type": "family room",
+  "Images": "Room13.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd14"
+  },
+  "Name": "Hotel No 29",
+  "Price": 3500,
+  "Location": "Lalitpur",
+  "Rating": 5,
+  "Reviews": "We had no choice but to stay here when a tornado hit the area and most of Vineland was without power. They charged us 190 for one night, wouldn't accept my AAA card and after leaving, we found out, we had been charged for 4 cats (which we don't own) and for another person. It was only my husband and... More",
+  "Type": "standard deluxe",
+  "Images": "Room11.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd15"
+  },
+  "Name": "Hotel No 30",
+  "Price": 3500,
+  "Location": "Lalitpur",
+  "Rating": 4,
+  "Reviews": "Hotel is in the perfect spot at the perfect price with the not so perfect view. Expedia rep said that it was facing the water and in a way it was but at a 45 degree angel past the parking lot and a few other obstructions. You have to stretch your neck at the furthest corner of the window to gain a peak. But it was still good though. The room sleeps like nobody's business. Once your head hits the pillows its light out. What I did not like was the front desk personnel. They really did not like there job and it showed. No eye contact, no smiles, no small talk, and what really disturbed me was at check in when I was told to sign this that's how it was put. I was like what is it Just sign - its nothing. Sir What am I signing. Oh if you have a party and smoke we can charge you 250.00(eyes still on monitor). Well sir. Tell me that. Next. Came back later that night to get snacks out of the cupboard. Over priced but I expected that but the person at the front desk was lifeless and didn't not even give me a total. She just says. Its charged to your room and kept staring at her monitor(again the monitor). WOW. But what makes up for some of the small inconsistencies is that fact that the water is in walking distance. The Ferris wheel is right there and Gaylord Hotel is right across the street. Good energy in the area and great spots to eat(Redstone) . Cant wait to visit again. Thanks for the snacks!",
+  "Type": "family room",
+  "Images": "Room7.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd16"
+  },
+  "Name": "Hotel No 31",
+  "Price": 2000,
+  "Location": "Biratnagar",
+  "Rating": 3,
+  "Reviews": "Excellent experience. Will come again and book stay in the future",
+  "Type": "standard room",
+  "Images": "Room4.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd17"
+  },
+  "Name": "Hotel No 32",
+  "Price": 4000,
+  "Location": "Bharatpur",
+  "Rating": 2,
+  "Reviews": "heat in room did not work properly, tv remote was broken excessive noise",
+  "Type": "junior suite room",
+  "Images": "Room11.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd18"
+  },
+  "Name": "Hotel No 33",
+  "Price": 2000,
+  "Location": "Kathmandu",
+  "Rating": 4,
+  "Reviews": "Even though we were having problems, i.e. Feather allergy, Flat tire, key not working...the front desk personell were always gracious and helpful.",
+  "Type": "standard deluxe",
+  "Images": "Room9.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd19"
+  },
+  "Name": "Hotel No 34",
+  "Price": 3500,
+  "Location": "Biratnagar",
+  "Rating": 5,
+  "Reviews": "Brand new hotel in brand new retail area on the water. Easy to access off the beltway. Friendly staff, clean rooms, comfortable beds. Only complaint is that the full offering of the Hampton Inn breakfast was not available at the two times we came down (at 7am and 9am on a Saturday). The food at 9am had been in the bin too long. Still more choices than the continental breakfast at other places, including make-you-own waffles and yummy egg burritos. The fee for parking in the community garage was free with room key and even included a convenient room key drop upon final exit. Pool but no hot tub.",
+  "Type": "deluxe hotel room",
+  "Images": "Room1.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd1a"
+  },
+  "Name": "Hotel No 35",
+  "Price": 1500,
+  "Location": "Kathmandu",
+  "Rating": 5,
+  "Reviews": "It was a great stay",
+  "Type": "standard deluxe",
+  "Images": "Room4.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd1b"
+  },
+  "Name": "Hotel No 36",
+  "Price": 1000,
+  "Location": "Kathmandu",
+  "Rating": 2,
+  "Reviews": "My sister came into town so we decided to go to The National Harbor for a night. Checking in, the hotel staff was very pleasant. Parking is in a garage behind the hotel, for 18. Our room was clean with nice views. The bed was very comfortable. We were able to walk comfortably to the harbor and sightsee. There are also restaurants and bars within walking distance. Breakfast was great, with canadian bacon and sausage patty meat options. There was also a waffle station, eggs, potatoes, fruit, yogurt, cereal, muffins, and other pastries. Checkout was a breeze, and the front desk staff again, was very pleasant. I very much enjoyed my stay and I will definitely return!",
+  "Type": "standard room",
+  "Images": "Room10.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd1c"
+  },
+  "Name": "Hotel No 37",
+  "Price": 2000,
+  "Location": "Lalitpur",
+  "Rating": 4,
+  "Reviews": "Free breakfast! Attentive staff Fantastic location",
+  "Type": "family room",
+  "Images": "Room7.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd1d"
+  },
+  "Name": "Hotel No 38",
+  "Price": 1000,
+  "Location": "Biratnagar",
+  "Rating": 2,
+  "Reviews": "Excellent experience. Due to a mix-up on my part with the online travel service it was set up as a king rather than two queen beds, for two guys. I immediately called at the time and Hampton said they would make a note that a room with two queens was needed. When i got there, they didn't have a 2-queen room so they put me up in another king room (and my buddy stayed in the original room) at NO additional expense, and I moved to a 2-queen room the next day. That is awesome, customer-oriented service.",
+  "Type": "standard deluxe",
+  "Images": "Room7.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd1e"
+  },
+  "Name": "Hotel No 39",
+  "Price": 1000,
+  "Location": "Lalitpur",
+  "Rating": 4,
+  "Reviews": "The room was really big and clean. The staff was great. The hotel offers free breakfast that was really good ( not the usual crappy free breakfast) The only thing I didn't like about the room was that the air conditioner was regulated a motion sensor. We happened to be staying here on one of the hottest days of the year. The unit only stays on if the motion censor registers a person being in the room. Upon arriving the room was hot. It took about 20 mins for it to cool off. Also the AC cut off during the night when we fell asleep (No movement). I woke up in a pool of sweat and had to get up a walk around periodically to keep the AC going. That really sucked..",
+  "Type": "standard deluxe",
+  "Images": "Room15.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd1f"
+  },
+  "Name": "Hotel No 40",
+  "Price": 1500,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "THE LOCATION OF THE HOTEL WAS OUTSTANDING. BUT THERE IS AND ADDITIONAL COST FOR PARKING JUST KEEP THAT IN MIND . IF YOU PAY FOR PARKING AT THE TIME YOU CHECK - IN BE SURE TO HAVE IT OUT BEFORE 1 PM THE NEXT DAY",
+  "Type": "luxury suite",
+  "Images": "Room12.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd20"
+  },
+  "Name": "Hotel No 41",
+  "Price": 1000,
+  "Location": "Birgunj",
+  "Rating": 5,
+  "Reviews": "was too quick, but very nice area",
+  "Type": "luxury suite",
+  "Images": "Room8.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd21"
+  },
+  "Name": "Hotel No 42",
+  "Price": 1500,
+  "Location": "Birgunj",
+  "Rating": 3,
+  "Reviews": "clean, good area, very kind crew, easy to park",
+  "Type": "deluxe hotel room",
+  "Images": "Room13.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd22"
+  },
+  "Name": "Hotel No 43",
+  "Price": 1500,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "We had a great overnight trip to the National Harbor near DC. All of the sites and entertainment were within walking distance!",
+  "Type": "standard deluxe",
+  "Images": "Room9.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd23"
+  },
+  "Name": "Hotel No 44",
+  "Price": 3500,
+  "Location": "Birgunj",
+  "Rating": 3,
+  "Reviews": "I loved my stay VIP service all the way. I didn't want to leave. I can honestly say I will visit again. I give it 5 stars",
+  "Type": "standard room",
+  "Images": "Room5.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd24"
+  },
+  "Name": "Hotel No 45",
+  "Price": 4000,
+  "Location": "Biratnagar",
+  "Rating": 2,
+  "Reviews": "The only problem I have was their sensorize INNCOM thermostat for air conditioning unit to start-up. If there are not movement inside the room, it will not kick in..... sucks!! the trick is, you have to keep moving while sleeping to keep the AC running (LOL)....",
+  "Type": "luxury suite",
+  "Images": "Room6.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd25"
+  },
+  "Name": "Hotel No 46",
+  "Price": 2000,
+  "Location": "Kathmandu",
+  "Rating": 3,
+  "Reviews": "Convenient and comfortable. Staff is great, breakfast and WiFi is a bonus.",
+  "Type": "standard deluxe",
+  "Images": "Room13.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd26"
+  },
+  "Name": "Hotel No 47",
+  "Price": 3500,
+  "Location": "Kathmandu",
+  "Rating": 2,
+  "Reviews": "I was really disappointed with the TV service. Very few channels and poor quality.",
+  "Type": "family room",
+  "Images": "Room2.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd27"
+  },
+  "Name": "Hotel No 48",
+  "Price": 1500,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "Awesome, Overall",
+  "Type": "standard deluxe",
+  "Images": "Room6.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd28"
+  },
+  "Name": "Hotel No 49",
+  "Price": 2000,
+  "Location": "Biratnagar",
+  "Rating": 4,
+  "Reviews": "Better with more extras like breakfast. Preferred place to sleep for conference.",
+  "Type": "deluxe hotel room",
+  "Images": "Room9.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd29"
+  },
+  "Name": "Hotel No 50",
+  "Price": 3000,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "Very good experience. Staff was great. Enjoyed my times especially after my previous fiasco at that other hotel.",
+  "Type": "standard deluxe",
+  "Images": "Room12.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd2a"
+  },
+  "Name": "Hotel No 51",
+  "Price": 2000,
+  "Location": " Pokhara",
+  "Rating": 2,
+  "Reviews": "The hotel is located near all the attractions on the Harbor. We were provided more than we expected. There was parking right across the street restaurants within 5 minute walking distance and most of all hot and cold continental breakfast in the morning and hot coffee and tea available all day in the lobby. The rooms were very comfortable. I slept just like I was at home. Oh, I can't forget the staff: they were on their job with an attitude of excellence!",
+  "Type": "family room",
+  "Images": "Room5.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd2b"
+  },
+  "Name": "Hotel No 52",
+  "Price": 3000,
+  "Location": "Biratnagar",
+  "Rating": 5,
+  "Reviews": "Repeat trip to this hotel for national conference attendance. Provides a quality stay, business center kept me in touch and great value for limited travel budget.",
+  "Type": "standard deluxe",
+  "Images": "Room1.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd2c"
+  },
+  "Name": "Hotel No 53",
+  "Price": 4000,
+  "Location": "Biratnagar",
+  "Rating": 4,
+  "Reviews": "I can't comment on the breakfast because we slept through it but everything else was excellent! I dont know why anyone would pay twice the price to stay at the Gaylord. 5 stars all the way!",
+  "Type": "luxury suite",
+  "Images": "Room15.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd2d"
+  },
+  "Name": "Hotel No 54",
+  "Price": 1500,
+  "Location": "Kathmandu",
+  "Rating": 2,
+  "Reviews": "Our room was a bit small. There was no microwave in the room. Location was more for couples than for family. The room itself And service were excellent.",
+  "Type": "family room",
+  "Images": "Room12.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd2e"
+  },
+  "Name": "Hotel No 55",
+  "Price": 2000,
+  "Location": "Biratnagar",
+  "Rating": 3,
+  "Reviews": "This hotel is a peach. The staff are friendly, the hot breakfast filling and the rooms are immaculate. This should be a poster child for how to run a hotel.",
+  "Type": "family room",
+  "Images": "Room9.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd2f"
+  },
+  "Name": "Hotel No 56",
+  "Price": 1000,
+  "Location": " Pokhara",
+  "Rating": 3,
+  "Reviews": "Hampton Inn never disappoints. Always an affordable, clean hotel with attentive and friendly staff. The breakfast is always a plus too. Also, the National Harbor is a nice area full of shops and dining choices and seems to be a family friendly hangout destination for locals.",
+  "Type": "standard room",
+  "Images": "Room14.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd30"
+  },
+  "Name": "Hotel No 57",
+  "Price": 1500,
+  "Location": "Kathmandu",
+  "Rating": 4,
+  "Reviews": "I stayed here with some friends for a convention. It was a good room and the free breakfast was nice.",
+  "Type": "standard deluxe",
+  "Images": "Room13.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd31"
+  },
+  "Name": "Hotel No 58",
+  "Price": 3500,
+  "Location": "Biratnagar",
+  "Rating": 3,
+  "Reviews": "The hotel offers comfortable, somewhat elegant rooms but I suppose I was more impressed with the personnel and the warmth you get interacting with them. But for my phone call bills which seemed a bit high, my stay overall was great.",
+  "Type": "junior suite room",
+  "Images": "Room3.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd32"
+  },
+  "Name": "Hotel No 59",
+  "Price": 2000,
+  "Location": "Kathmandu",
+  "Rating": 5,
+  "Reviews": "We were there for 3 nights and used it as a staging area for sightseeing in DC and Baltimore. It's a nice, new hotel with reasonable rates. The staff was great with our kids, who had a blast at the pool and the 24/7 snack bar. The continental breakfast was great, but they should consider expanding their hours or at least allowing guests to finish the food that is out at 10, because every morning the food was taken away promptly at 10:00 even though the area was packed with guests still trying to get breakfast. Parking was 13/day and right across the street, which is quite reasonable for the DC area.",
+  "Type": "deluxe hotel room",
+  "Images": "Room2.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd33"
+  },
+  "Name": "Hotel No 60",
+  "Price": 3500,
+  "Location": "Kathmandu",
+  "Rating": 4,
+  "Reviews": "Reasonable rates with free breakfast and right in front of Gaylord National Resort worked for me very well. The rooms have good size bathrooms and the air conditioning in the rooms was excellent. Parking is 11 per day and that is why I did not give it 5 stars. However, at National Harbor 11 is not bad especially when Gaylord charges double of it per day.",
+  "Type": "standard deluxe",
+  "Images": "Room1.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd34"
+  },
+  "Name": "Hotel No 61",
+  "Price": 3500,
+  "Location": "Kathmandu",
+  "Rating": 3,
+  "Reviews": "We hosted our annual Client Event at The Grand Del Mar and it was excellent!! The service, property, rooms, restaurants, and GOLF absolutely magnificent. Our conference managers were a gem, great service! Thank you for making an important event run so smoothly.",
+  "Type": "family room",
+  "Images": "Room3.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd35"
+  },
+  "Name": "Hotel No 62",
+  "Price": 4000,
+  "Location": "Biratnagar",
+  "Rating": 5,
+  "Reviews": "We enjoyed every minute of our stay in this breathtaking luxurious resort. The hotel is well kept and boasts caring and attending staff that do their best to make your stay memorable. The hotel offers great rooms, amenities and activities for all ages. I fell and fractured my hand on the last day of our stay (off property) and the... More",
+  "Type": "standard room",
+  "Images": "Room8.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd36"
+  },
+  "Name": "Hotel No 63",
+  "Price": 3000,
+  "Location": "Lalitpur",
+  "Rating": 2,
+  "Reviews": "We arrived here very tired after 24 hours of travel and airports and from the moment we arrived we felt like royalty. We dined a Amaya multiple times (please see separate review). The room was stunning and more than we could ever expect, nothing was to little for the staff and they all seemed genuinely friendly even down to the... More",
+  "Type": "standard room",
+  "Images": "Room9.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd37"
+  },
+  "Name": "Hotel No 64",
+  "Price": 1500,
+  "Location": " Pokhara",
+  "Rating": 4,
+  "Reviews": "Stayed here for Thanksgiving and had the best experience. Before we arrived they asked my three year old little boy's name and when we arrived they had the most adorable kids travel pillow and personalized cookie waiting for him. They had children's games on the lawn right outside our bottom floor room, 105, and he had his face painted for... More",
+  "Type": "family room",
+  "Images": "Room8.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd38"
+  },
+  "Name": "Hotel No 65",
+  "Price": 1000,
+  "Location": " Pokhara",
+  "Rating": 5,
+  "Reviews": "This exquisite property located in the penasquitos canyon of North County is a spectacular retreat. In a setting resembling a Mediterranean villa, the hotel is truly grand, with spacious rooms, several dining options and cozy sitting areas to relax and soak up the well appointed spaces and beautifully manicured grounds. The resort amenities include golf, tennis, heated pools and a... More",
+  "Type": "luxury suite",
+  "Images": "Room8.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd39"
+  },
+  "Name": "Hotel No 66",
+  "Price": 2000,
+  "Location": "Kathmandu",
+  "Rating": 4,
+  "Reviews": "Five of the last six years, our company has hosted our annual meeting at the Grand Del Mar (and we regret not having it six out of six years). The GdM may be the top place to stay in the US, thus my recommendation is in the title of the review. The GdM is not inexpensive, but it is worth... More",
+  "Type": "standard deluxe",
+  "Images": "Room2.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd3a"
+  },
+  "Name": "Hotel No 67",
+  "Price": 3000,
+  "Location": "Kathmandu",
+  "Rating": 4,
+  "Reviews": "We drove down for a weekend getaway and to celebrate a special birthday. Our infant son accompanied us. The room was nice but the bathroom was fabulous. We appreciated the separate large shower from the tub and the private toilet. I wasn't as much of a fan of the closet being inside the bathroom as it was a trip to... More",
+  "Type": "luxury suite",
+  "Images": "Room13.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd3b"
+  },
+  "Name": "Hotel No 68",
+  "Price": 4000,
+  "Location": "Biratnagar",
+  "Rating": 5,
+  "Reviews": "This resort is GORGEOUS!! Check in was perfect our room wasnt ready (we were there early) so they took my phone number while we had drinks by the pool and in 20 mins or so our room was ready! The next day we had spa appts and the receptionist heard it was our honeymoon trip so after our massages we... More",
+  "Type": "luxury suite",
+  "Images": "Room14.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd3c"
+  },
+  "Name": "Hotel No 69",
+  "Price": 1500,
+  "Location": "Kathmandu",
+  "Rating": 2,
+  "Reviews": "The resort and staff are wonderful. The hotel is very nice and the groups are beautiful. The location is secluded so you need a rental car or to book the house car in advance. The concierge staff has not been to most of the spots so use trip advisor to help find the right places.",
+  "Type": "family room",
+  "Images": "Room2.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd3d"
+  },
+  "Name": "Hotel No 70",
+  "Price": 3500,
+  "Location": "Kathmandu",
+  "Rating": 4,
+  "Reviews": "This is a very, very, very good hotel. My expectations were high because of the reviews I had read and it didn't quite meet my expectations. I know I'm knit-picking but while the abundance of fresh flower petals in my room were very nice I would gladly have traded them for a room service breakfast with hot coffee, hot ham... More",
+  "Type": "standard deluxe",
+  "Images": "Room13.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd3e"
+  },
+  "Name": "Hotel No 71",
+  "Price": 1500,
+  "Location": "Biratnagar",
+  "Rating": 2,
+  "Reviews": "Expensive Yes. Service Above the norm! Nickel and dime you on the small stuff Nope! (one of my pet peeves if you are going to stay at a hotel of this caliber) This property gives you 5 star service. Forgot your work out clothes Let the staff know your size. Need some feminine products, be there in 5 minutes. The... More",
+  "Type": "standard room",
+  "Images": "Room5.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd3f"
+  },
+  "Name": "Hotel No 72",
+  "Price": 1500,
+  "Location": "Birgunj",
+  "Rating": 4,
+  "Reviews": "If you don't mind staying out of town, the Fairmont Grand Del Mar is a top quality choice for San Diego located about 25 minutes north of the airport. It is a large traditional colonial property, with a beautiful golf course on the west side of the grounds, ample parking, equestrian facilities and a good spa (which has the best... More",
+  "Type": "junior suite room",
+  "Images": "Room2.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd40"
+  },
+  "Name": "Hotel No 73",
+  "Price": 1000,
+  "Location": "Bharatpur",
+  "Rating": 5,
+  "Reviews": "This property is absolutely pristine. The grounds are perfectly maintained, the rooms are luxurious with exquisite detail and the hotel in general is just a site to see. The location is great if you want to be away from the city and in a quiet area with gorgeous views of the hills (but close enough to to drive to Del... More",
+  "Type": "deluxe hotel room",
+  "Images": "Room13.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd41"
+  },
+  "Name": "Hotel No 74",
+  "Price": 1000,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "I love The Grand Del Mar in Del Mar California. This might have been my 6th time there. It is the only hotel in the area that i will stay at. It is truly a 5 star property. The staff is professional and very attentive. The rooms are very spacious, with marble bathrooms and separate shower and soaking tub. The... More",
+  "Type": "deluxe hotel room",
+  "Images": "Room10.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd42"
+  },
+  "Name": "Hotel No 75",
+  "Price": 1500,
+  "Location": " Pokhara",
+  "Rating": 2,
+  "Reviews": "We had a wonderful stay at the Fairmont! This is an excellent hotel, with great attention to detail including hotel grounds, architecture, amenities and staff. Service is first class and natural, you are made to feel very welcome. Great looking golf course, and plenty of other activities to enjoy such as walking, the pool, tennis. Or just relax in the... More",
+  "Type": "junior suite room",
+  "Images": "Room7.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd43"
+  },
+  "Name": "Hotel No 76",
+  "Price": 1000,
+  "Location": " Pokhara",
+  "Rating": 2,
+  "Reviews": "To date, this takes the prize. It did not overwhelm me but I was, over the four days I stayed, consistently well served and impressed at the degree of detail that was maintained in every aspect of the experience. In the same way that the hotel service was a consistently delivered, high degree of service, without being over the top,... More",
+  "Type": "luxury suite",
+  "Images": "Room5.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd44"
+  },
+  "Name": "Hotel No 77",
+  "Price": 3000,
+  "Location": "Biratnagar",
+  "Rating": 3,
+  "Reviews": "It's a great place to stay and leave a car if you are flying out. The courtesy shuttle takes 10 minutes to get to O'Hare.",
+  "Type": "standard deluxe",
+  "Images": "Room5.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd45"
+  },
+  "Name": "Hotel No 78",
+  "Price": 3500,
+  "Location": "Lalitpur",
+  "Rating": 4,
+  "Reviews": "Give Robert a raise! We were trying to catch a flight from O'Hare to ATL early in the morning and my girlfriend forgot her phone in the room. Luckily, we called and he managed to get the phone as we made our way back on the provided shuttle bus. Orlando the shuttle driver was quick to pull us into our... More",
+  "Type": "standard room",
+  "Images": "Room14.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd46"
+  },
+  "Name": "Hotel No 79",
+  "Price": 1500,
+  "Location": "Biratnagar",
+  "Rating": 2,
+  "Reviews": "Average hotel for decent price. It was balanced. Housekeeping did leave our door only ajar after cleaning one day. Arrrggghhhh!!!!! Nothing was missing.",
+  "Type": "standard deluxe",
+  "Images": "Room7.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd47"
+  },
+  "Name": "Hotel No 80",
+  "Price": 3500,
+  "Location": "Kathmandu",
+  "Rating": 2,
+  "Reviews": "The room key did not work i to go to lobby 4 times no parking under heavy construction noise the staff very incompetent I will not come back to this hotel",
+  "Type": "standard deluxe",
+  "Images": "Room8.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd48"
+  },
+  "Name": "Hotel No 81",
+  "Price": 4000,
+  "Location": "Birgunj",
+  "Rating": 5,
+  "Reviews": "We Had the best time ever! r r What a ball we had at Clarion Resort Waterpark! r r The place was large enough to have plenty of rides but small enough to walk comfortably. r r The entire facility is NEW and all the rooms are well",
+  "Type": "junior suite room",
+  "Images": "Room2.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd49"
+  },
+  "Name": "Hotel No 82",
+  "Price": 2000,
+  "Location": "Lalitpur",
+  "Rating": 5,
+  "Reviews": "Awesome hotel. Virgin really took the time to figure out all things at are frustrating about staying in a hotel and fixed them - kudos!!! The hotel will become a regular haunt in the future. From free wifi, free cocktails, a mini bar you're not terrified to touch, not to mention the no check out time, they really are way ahead of the rest. Oh by the way did I mention the really cool room... Awesome! Highly recommend the hotel. From young teens to my parents in their 70's the hotel met our every need.",
+  "Type": "family room",
+  "Images": "Room4.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd4a"
+  },
+  "Name": "Hotel No 83",
+  "Price": 1000,
+  "Location": "Biratnagar",
+  "Rating": 4,
+  "Reviews": "Bad: The bed wasn't that comfy, which was surprising given all of the other amazing details. Sheets were rough/stiff- not cozy. Could be easily fixed, though!. Good: This was by far one of the best hotel experiences I've ever had. Check-in and check-out was super fast, staff was phenomenal, and the room was very intuitively set-up with thoughtful details technology. It was clear that Virgin isn't just a typical hotel. The chamber set-up of the room allowed for privacy comfort, even in a relatively small space. Snacks mini-bar had 7-11 prices. Everything was super clean, well serviced and wonderful. In short: STAY HERE!",
+  "Type": "luxury suite",
+  "Images": "Room14.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd4b"
+  },
+  "Name": "Hotel No 84",
+  "Price": 3500,
+  "Location": "Lalitpur",
+  "Rating": 2,
+  "Reviews": "Bad: Noisy in lower floors, but not at all at higher ones. Good: Very comfy beds, great lobby/bathroom",
+  "Type": "luxury suite",
+  "Images": "Room9.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd4c"
+  },
+  "Name": "Hotel No 85",
+  "Price": 2000,
+  "Location": "Lalitpur",
+  "Rating": 2,
+  "Reviews": "Good: Staff went out of their way after checkout to locate an item I had left in the room. The room had already been cleaned and the staff got the item back to me as quickly as possible. Roof top bar was beautiful.",
+  "Type": "luxury suite",
+  "Images": "Room9.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd4d"
+  },
+  "Name": "Hotel No 86",
+  "Price": 4000,
+  "Location": "Biratnagar",
+  "Rating": 3,
+  "Reviews": "Bad: A little bit of noise from the 'L' down below, but then again that is part of the character of the city. Good: Overall cleanliness, new feel, friendly efficient staff, great happy hour! Excellent location.",
+  "Type": "standard room",
+  "Images": "Room12.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd4e"
+  },
+  "Name": "Hotel No 87",
+  "Price": 3000,
+  "Location": "Birgunj",
+  "Rating": 5,
+  "Reviews": "Bad: The room rate was terrible we had a Booking.com rate that was not honoured it soured the stay and was a big difference. We to date have no explanation!. Good: Location",
+  "Type": "luxury suite",
+  "Images": "Room13.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd4f"
+  },
+  "Name": "Hotel No 88",
+  "Price": 2000,
+  "Location": "Bharatpur",
+  "Rating": 5,
+  "Reviews": "Bad: Had a couple of glitches getting the room serviced but otherwise very friendly and helpful staff. Good: Great location. Nice rooms with exceptionally comfortable bed.",
+  "Type": "family room",
+  "Images": "Room8.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd50"
+  },
+  "Name": "Hotel No 89",
+  "Price": 4000,
+  "Location": "Bharatpur",
+  "Rating": 5,
+  "Reviews": "Good: A fun place to stay with great staff and lots going on in and around the hotel.",
+  "Type": "deluxe hotel room",
+  "Images": "Room15.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd51"
+  },
+  "Name": "Hotel No 90",
+  "Price": 3000,
+  "Location": "Lalitpur",
+  "Rating": 4,
+  "Reviews": "Would be nice if the duvet were in a duvet cover as I just get tangled between the flat sheets and the comforter Gym could really do with some more variety in terms of machinery - Its impossible to do much leg work as there is no squat rack with a bar - or even a smith machine which has multiple purposes Super helpful staff 24/7 - very accommodating of my unusual hours Room service menu is amazing Views are amazing Cerise Bar on the roof is epic and the bartenders are amazing I will be coming back and SOON!",
+  "Type": "standard room",
+  "Images": "Room9.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd52"
+  },
+  "Name": "Hotel No 91",
+  "Price": 1000,
+  "Location": "Kathmandu",
+  "Rating": 3,
+  "Reviews": "Bad: The hotel is next to train tracks so there is some noise from that pretty often but it's really not so bad and you kind of have to expect some noise when you're staying at a hotel that's literally in the middle of the city. Good: Very tech friendly as the hotel has its own smartphone app which allows you to order room service and control the thermostat among other things. The staff is very friendly and accommodating. The room is designed very well. Also the price of the mini bar items are actually reasonable.",
+  "Type": "junior suite room",
+  "Images": "Room7.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd53"
+  },
+  "Name": "Hotel No 92",
+  "Price": 3000,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "Bad: Loved everything about Virgin Hotel. Good: First and foremost the staff - just wonderful. Friendly and very patient with all the enquiries we made! And we were there for the historic parade to celebrate the Chicago Cubs World Series win and the icing on the cake was another historic win - Ireland beating the All Blacks after 111 years!",
+  "Type": "deluxe hotel room",
+  "Images": "Room1.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd54"
+  },
+  "Name": "Hotel No 93",
+  "Price": 3000,
+  "Location": "Birgunj",
+  "Rating": 4,
+  "Reviews": "Bad: A little sticker shock with 65/night valet parking, but I hadn't done my research for cheaper options, so not a big deal. Good: Super hip and definitely a young techy vibe, but everyone was friendly and helpful. Room was as described and very spacious for the location and price. Even though it is right at the corner of the L Tracks, sound wasn't a problem. Exactly what was needed!",
+  "Type": "luxury suite",
+  "Images": "Room13.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd55"
+  },
+  "Name": "Hotel No 94",
+  "Price": 2000,
+  "Location": "Birgunj",
+  "Rating": 4,
+  "Reviews": "Bad: Everything was great. Good: Superior experience. Loved everything about this hotel. Very comfortable, well thought out and fun arrangement of the room, great shower and products, good restaurants, wonderful roof bar. Looking forward to the next visit!",
+  "Type": "standard deluxe",
+  "Images": "Room2.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd56"
+  },
+  "Name": "Hotel No 95",
+  "Price": 1000,
+  "Location": "Kathmandu",
+  "Rating": 2,
+  "Reviews": "Bad: We were on the 9th floor and slept really well but could hear the metro. Earplugs are supplied which were useful to my husband. There were two tvs in our one bedroom suite but only one remote control - odd when we wanted to watch two different shows. Good: Absolutely perfect location in Chicago, within one block of the metro, walking distance to most of the top areas to visit and very good restaurants. Very comfortable room and bed, neat layout for the closet and vanity, wonderful shower, cool design features (Vespa chair, red fridge, furniture).",
+  "Type": "junior suite room",
+  "Images": "Room14.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd57"
+  },
+  "Name": "Hotel No 96",
+  "Price": 1500,
+  "Location": " Pokhara",
+  "Rating": 5,
+  "Reviews": "Bad: Intermittent barking dog!. Good: Spacious suite, recommend end room on high floor",
+  "Type": "deluxe hotel room",
+  "Images": "Room12.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd58"
+  },
+  "Name": "Hotel No 97",
+  "Price": 3500,
+  "Location": "Bharatpur",
+  "Rating": 3,
+  "Reviews": "Good: The suite was very well apointed, plenty of room for an inroom breakfast --the bed and bedding were very nice. The staff couldnt be nicer We had a great night on the rooftop deck.... we never left the propertysmall plates a DJ and wonderful views. Ill be back",
+  "Type": "standard room",
+  "Images": "Room1.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd59"
+  },
+  "Name": "Hotel No 98",
+  "Price": 2000,
+  "Location": "Lalitpur",
+  "Rating": 4,
+  "Reviews": "Bad: A very minor quibble: only one side of the bed had a nightstand. Good: Room design was well thought out and executed, making an average-sized space especially user-friendly for a couple. Also, the room had more power outlets than I've ever seen in a hotel room. Staff was helpful and friendly, second-floor bar was very nice.",
+  "Type": "luxury suite",
+  "Images": "Room4.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd5a"
+  },
+  "Name": "Hotel No 99",
+  "Price": 2000,
+  "Location": "Birgunj",
+  "Rating": 4,
+  "Reviews": "Bad: The view. Good: Everything",
+  "Type": "luxury suite",
+  "Images": "Room1.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd5b"
+  },
+  "Name": "Hotel No 100",
+  "Price": 3000,
+  "Location": "Kathmandu",
+  "Rating": 3,
+  "Reviews": "Beds were very comfortable, room amenities perfect. Enjoyed the lobby level coffee shop, roof top bar and happy hour on the 2nd level every evening. A great bonus!",
+  "Type": "standard deluxe",
+  "Images": "Room14.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd5c"
+  },
+  "Name": "Hotel No 101",
+  "Price": 2000,
+  "Location": "Lalitpur",
+  "Rating": 2,
+  "Reviews": "Bad: Timing seemed to be off. Had to wait a very long time for breakfast, longer than people who had come in after us. Had to wait a very long time for the valet to bring our car, seemed to be some kind of communication issue. They were nice about it, and so were we, but it seemed to be a theme, which was a bit of a disappointment. Good: Nicely appointed room, great location.",
+  "Type": "standard room",
+  "Images": "Room14.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd5d"
+  },
+  "Name": "Hotel No 102",
+  "Price": 3500,
+  "Location": "Bharatpur",
+  "Rating": 2,
+  "Reviews": "Good: I loved the quirkiness and style of the hotel. The staff were so friendly and accommodating. The drinks at the bar were top notch and the price for the location was unbeatable. And the bed, the bed was perfect. I slept like a baby.",
+  "Type": "family room",
+  "Images": "Room2.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd5e"
+  },
+  "Name": "Hotel No 103",
+  "Price": 4000,
+  "Location": "Kathmandu",
+  "Rating": 5,
+  "Reviews": "Bad: I was supposed to get a room with two beds and ended up with a room with one full bed for me and my husband.it was very small!.",
+  "Type": "family room",
+  "Images": "Room4.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd5f"
+  },
+  "Name": "Hotel No 104",
+  "Price": 1500,
+  "Location": "Kathmandu",
+  "Rating": 2,
+  "Reviews": "Staff weren't helpful and no one tried to come and clean our room on several nights. Rooms were very small. Good location",
+  "Type": "luxury suite",
+  "Images": "Room10.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd60"
+  },
+  "Name": "Hotel No 105",
+  "Price": 1500,
+  "Location": "Biratnagar",
+  "Rating": 3,
+  "Reviews": "Bad: Cost of the valet. Good: Location to the garden",
+  "Type": "standard room",
+  "Images": "Room15.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd61"
+  },
+  "Name": "Hotel No 106",
+  "Price": 4000,
+  "Location": "Kathmandu",
+  "Rating": 3,
+  "Reviews": "Bad: (Valet) parking is expensive. Room was a bit small. Good: Very pleasant experience. The room was good, clean and had a rich minibar. Very nice bar/restaurant/breakfast accomodation. Personell (we were helped by luckas) was extraordinary kind and helpful.",
+  "Type": "standard room",
+  "Images": "Room4.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd62"
+  },
+  "Name": "Hotel No 107",
+  "Price": 1500,
+  "Location": "Lalitpur",
+  "Rating": 5,
+  "Reviews": "Good: Beautiful rooms and amenities - L'occitane products. The restaurant Finch great food and amazing bar. Loved the Boxer",
+  "Type": "luxury suite",
+  "Images": "Room9.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd63"
+  },
+  "Name": "Hotel No 108",
+  "Price": 2000,
+  "Location": "Birgunj",
+  "Rating": 5,
+  "Reviews": "Great location. Extremely comfortable bed and pillows. Wonderful friendly staff.",
+  "Type": "luxury suite",
+  "Images": "Room8.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd64"
+  },
+  "Name": "Hotel No 109",
+  "Price": 3500,
+  "Location": "Biratnagar",
+  "Rating": 2,
+  "Reviews": "Good: The room was very comfortable, great for a couple. We had a wonderful time, it was very conveniently located to the TD Garden, which is where we were attending a concert. It was also very close to the North End and Faneuil hall, which is a great area to visit for food options that are very plentiful.",
+  "Type": "deluxe hotel room",
+  "Images": "Room11.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd65"
+  },
+  "Name": "Hotel No 110",
+  "Price": 4000,
+  "Location": "Bharatpur",
+  "Rating": 4,
+  "Reviews": "the breakfast at 17 bucks was a bit of disgrace. it is a particular building.",
+  "Type": "junior suite room",
+  "Images": "Room7.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd66"
+  },
+  "Name": "Hotel No 111",
+  "Price": 3500,
+  "Location": "Bharatpur",
+  "Rating": 4,
+  "Reviews": "Bad: We had booked 2 rooms for our 3 night Boston trip - King Room for us and a Double Double (ie with 2 double beds) for our teenagers. I booked this in December for our July visit. I emailed twice before arrival to request that the rooms were close by (on the same floor) and both times got no reply - and that should have alerted me and to be honest sums up 'Boxer Customer Service'. On arrival we were told that there were no rooms available with 2 beds, the guy on reception seemed clueless how to help us. Our teenagers were supposedly 'upgraded' to a suite where my son had to sleep on a sofa / pull out bed (or share a King size bed with his sister). Totally unacceptable - I booked these rooms 6 months in advance. All in all we had interactions with 4 different staff members (including someone from Accounts who had to process a compensation refund) and at no time did either my wife nor I feel like the Customer . . . . you know the kind The PAYING Customer! So in terms of Comfort score - low because my son was on a sofa bed for 3 nights. In terms of Value for Money - low 1800 and my 16 year old son gets a sofa bed In terms of Staff score - low because they are in serious need of some Customer Service training. Good: The Boxer in Boston SHOULD be a fantastic hotel - it's a great building, location is excellent (we were able to explore everything that Boston has to offer from there), rooms are a good size but overall our stay was not as good as it should have been. Came away from our 3 night stay (planned and booked 6 months earlier) just feeling like we had been let down . . . .",
+  "Type": "junior suite room",
+  "Images": "Room14.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd67"
+  },
+  "Name": "Hotel No 112",
+  "Price": 3500,
+  "Location": "Kathmandu",
+  "Rating": 3,
+  "Reviews": "Bad: poor room comfort no room for clothes very old bath accesories high price.",
+  "Type": "family room",
+  "Images": "Room13.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd68"
+  },
+  "Name": "Hotel No 113",
+  "Price": 1000,
+  "Location": "Kathmandu",
+  "Rating": 3,
+  "Reviews": "Good: The whole 5 day experience at the hotel was superb- the room,staff and location were all perfect- thank you The Boxer second time staying with you and all requirements were met.",
+  "Type": "junior suite room",
+  "Images": "Room12.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd69"
+  },
+  "Name": "Hotel No 114",
+  "Price": 3000,
+  "Location": "Biratnagar",
+  "Rating": 4,
+  "Reviews": "The location",
+  "Type": "standard room",
+  "Images": "Room15.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd6a"
+  },
+  "Name": "Hotel No 115",
+  "Price": 1500,
+  "Location": "Kathmandu",
+  "Rating": 2,
+  "Reviews": "Bad: Parking a little expensive.. Good: Close to TD Garden",
+  "Type": "standard room",
+  "Images": "Room6.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd6b"
+  },
+  "Name": "Hotel No 116",
+  "Price": 2000,
+  "Location": "Lalitpur",
+  "Rating": 5,
+  "Reviews": "Fitness center small and not well equipped. Good location.",
+  "Type": "deluxe hotel room",
+  "Images": "Room15.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd6c"
+  },
+  "Name": "Hotel No 117",
+  "Price": 2000,
+  "Location": "Bharatpur",
+  "Rating": 2,
+  "Reviews": "Bad: Nothing. Good: The hotel was simply excellent. The coolest hotel I have ever stayed!",
+  "Type": "deluxe hotel room",
+  "Images": "Room9.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd6d"
+  },
+  "Name": "Hotel No 118",
+  "Price": 1000,
+  "Location": "Kathmandu",
+  "Rating": 4,
+  "Reviews": "I didn't like the size of the rooms, not as big as I thought they would be. I liked the central location to Downtown Boston.",
+  "Type": "standard deluxe",
+  "Images": "Room6.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd6e"
+  },
+  "Name": "Hotel No 119",
+  "Price": 4000,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "Good: Very quaint hotel, good location, great staff...amazing time!",
+  "Type": "family room",
+  "Images": "Room15.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd6f"
+  },
+  "Name": "Hotel No 120",
+  "Price": 1000,
+  "Location": "Lalitpur",
+  "Rating": 4,
+  "Reviews": "Bad: We had breakfast on two days in the hotel. One day (Sunday) the service was great - the next day it was very poor. While the hotel is quite central, the choice of restaurants very close to the hotel is not good. Good: Front desk staff were friendly and happy to give advice etc. Nice hotel with funky rooms. Room we had was a bit noisy at night - can turn the fridge off but still noise from air con or something else.",
+  "Type": "luxury suite",
+  "Images": "Room14.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd70"
+  },
+  "Name": "Hotel No 121",
+  "Price": 1500,
+  "Location": "Lalitpur",
+  "Rating": 2,
+  "Reviews": "Bad: This is really not a reflection on the hotel but the valet parking does take a long time to retrieve your car. They tell you to allow 30 minutes and you really need to do that. Good: Friendly staff. Clean rooms.",
+  "Type": "family room",
+  "Images": "Room4.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd71"
+  },
+  "Name": "Hotel No 122",
+  "Price": 2000,
+  "Location": "Birgunj",
+  "Rating": 2,
+  "Reviews": "Bad: Paying for parking. Good: Friendly and prompt service.",
+  "Type": "family room",
+  "Images": "Room15.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd72"
+  },
+  "Name": "Hotel No 123",
+  "Price": 4000,
+  "Location": "Lalitpur",
+  "Rating": 4,
+  "Reviews": "Good: Perfection - beautiful rooms, comfortable beds, great style. Centrally located for all the fun things in downtown Boston.",
+  "Type": "standard room",
+  "Images": "Room11.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd73"
+  },
+  "Name": "Hotel No 124",
+  "Price": 3500,
+  "Location": "Birgunj",
+  "Rating": 4,
+  "Reviews": "Good: The hotel environment, the staff went above and beyond to make our first trip to Boston better than we expected. Recommendations they made, help with directions, very friendly, didnt feel like a hotel, felt like staying with friends. Comfortable beds, cozy room, great food.",
+  "Type": "standard deluxe",
+  "Images": "Room7.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd74"
+  },
+  "Name": "Hotel No 125",
+  "Price": 2000,
+  "Location": "Birgunj",
+  "Rating": 3,
+  "Reviews": "Bad: Room size. Good: The close proximity to TD garden",
+  "Type": "deluxe hotel room",
+  "Images": "Room14.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd75"
+  },
+  "Name": "Hotel No 126",
+  "Price": 3500,
+  "Location": "Birgunj",
+  "Rating": 4,
+  "Reviews": "Bad: Room was small. Good: Free apples and fruit Infused Water in the lobby. Free bikes.",
+  "Type": "standard room",
+  "Images": "Room9.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd76"
+  },
+  "Name": "Hotel No 127",
+  "Price": 1500,
+  "Location": "Biratnagar",
+  "Rating": 3,
+  "Reviews": "Good: A marvelous location, very friendly crew, it's clear hotel where you feel you are in Boston!",
+  "Type": "family room",
+  "Images": "Room8.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd77"
+  },
+  "Name": "Hotel No 128",
+  "Price": 1000,
+  "Location": "Bharatpur",
+  "Rating": 4,
+  "Reviews": "Good: Its location.",
+  "Type": "standard room",
+  "Images": "Room4.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd78"
+  },
+  "Name": "Hotel No 129",
+  "Price": 1500,
+  "Location": "Birgunj",
+  "Rating": 3,
+  "Reviews": "Bad: The pull out couch was extremely uncomfortable. Good: Room was great. Staff was friendly and welcoming.",
+  "Type": "deluxe hotel room",
+  "Images": "Room12.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd79"
+  },
+  "Name": "Hotel No 130",
+  "Price": 4000,
+  "Location": "Biratnagar",
+  "Rating": 4,
+  "Reviews": "Room too small and ice machine broke nice too small rooms Free water and apples",
+  "Type": "standard room",
+  "Images": "Room7.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd7a"
+  },
+  "Name": "Hotel No 131",
+  "Price": 3500,
+  "Location": "Bharatpur",
+  "Rating": 2,
+  "Reviews": "the bed was very comfortable",
+  "Type": "family room",
+  "Images": "Room4.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd7b"
+  },
+  "Name": "Hotel No 132",
+  "Price": 2000,
+  "Location": " Pokhara",
+  "Rating": 4,
+  "Reviews": "Bad: Sofa bed very uncomfortable. Good: Great restoration of classic building close to sports, shopping and financial district.",
+  "Type": "standard room",
+  "Images": "Room8.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd7c"
+  },
+  "Name": "Hotel No 133",
+  "Price": 2000,
+  "Location": "Biratnagar",
+  "Rating": 3,
+  "Reviews": "Bad: Room too small and ice machine broke nice too small rooms. Good: Free water and apples",
+  "Type": "family room",
+  "Images": "Room13.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd7d"
+  },
+  "Name": "Hotel No 134",
+  "Price": 4000,
+  "Location": "Biratnagar",
+  "Rating": 4,
+  "Reviews": "Bad: The pillows were very flat and uncomfortable, and there was no real blanket on the bed!. Good: Location, staff, aesthetics, price.",
+  "Type": "standard deluxe",
+  "Images": "Room2.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd7e"
+  },
+  "Name": "Hotel No 135",
+  "Price": 4000,
+  "Location": "Biratnagar",
+  "Rating": 3,
+  "Reviews": "Bad: I think the hotel could do more to promote the on site restaurant with newly arrived guests. My husband tried it and thought the food was great but if there'd been a deal or something to catch our attention I'm sure we'd have eaten breakfast there both mornings of our stay. I also think that although the space inside the rooms seems to be well used that there are some practical challenges with storage where existing space could be better used for the ease and comfort of guests. Good: Very comfortable beds. Not massive but cosy and we all slept well. The linens were clean and fresh and we enjoyed the L'Occitane products in the bathroom. The staff were friendly, kind and helpful.",
+  "Type": "deluxe hotel room",
+  "Images": "Room10.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd7f"
+  },
+  "Name": "Hotel No 136",
+  "Price": 3000,
+  "Location": " Pokhara",
+  "Rating": 3,
+  "Reviews": "Bad: The room lacked hanging space and was quite small. Good: The staff were friendly and helpful. The bar and restaurant were nice",
+  "Type": "luxury suite",
+  "Images": "Room7.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd80"
+  },
+  "Name": "Hotel No 137",
+  "Price": 1500,
+  "Location": "Birgunj",
+  "Rating": 4,
+  "Reviews": "Bad: The minibar and the heating were noisy, but it didn't really disrupt our sleep. Breakfast was good, but perhaps the avocado toast was a bit small for the price. Good: The staff were all friendly and professional. Our room was clean and warm (it was cold out!) and had everything we needed. The drinks and food were very good, especially the Finch burger and the crab bennies at breakfast. Overall, we really liked the feel of the hotel and would definitely stay again, especially if we were going out of North Station again which is just around the corner.",
+  "Type": "standard deluxe",
+  "Images": "Room5.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd81"
+  },
+  "Name": "Hotel No 138",
+  "Price": 1000,
+  "Location": "Bharatpur",
+  "Rating": 5,
+  "Reviews": "Good: The location was perfect for walking to everything",
+  "Type": "family room",
+  "Images": "Room8.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd82"
+  },
+  "Name": "Hotel No 139",
+  "Price": 2000,
+  "Location": "Lalitpur",
+  "Rating": 4,
+  "Reviews": "Bad: Shower didn't drain propery, was puddle in shower when we checked in. Someone else's shower water left over, very gross. Good: Very friendly staff.",
+  "Type": "luxury suite",
+  "Images": "Room4.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd83"
+  },
+  "Name": "Hotel No 140",
+  "Price": 3500,
+  "Location": "Biratnagar",
+  "Rating": 5,
+  "Reviews": "Bad: Room servicing late in the day. Good: Great hotel. Friendly staff.",
+  "Type": "luxury suite",
+  "Images": "Room7.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd84"
+  },
+  "Name": "Hotel No 141",
+  "Price": 3500,
+  "Location": "Biratnagar",
+  "Rating": 5,
+  "Reviews": "Nothing Very friendly staff and very helpful",
+  "Type": "standard deluxe",
+  "Images": "Room11.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd85"
+  },
+  "Name": "Hotel No 142",
+  "Price": 3000,
+  "Location": "Bharatpur",
+  "Rating": 2,
+  "Reviews": "Bad: The restaurant was closed for a refurb and as a result we had to eat our breakfast in the lobby on our knees. We had tiny plastic plates and plastic cutlery and a poor food choice . I was not informed by booking.com that this was the case . It was not the service we wanted for 675 dollars for 2 nights!!. Good: The room was good",
+  "Type": "junior suite room",
+  "Images": "Room14.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd86"
+  },
+  "Name": "Hotel No 143",
+  "Price": 3500,
+  "Location": "Bharatpur",
+  "Rating": 2,
+  "Reviews": "Bad: the room was not very big and a couple more hooks here and there would have been nice to hang coat, towels etc. Good: nice decoration, well located",
+  "Type": "standard deluxe",
+  "Images": "Room7.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd87"
+  },
+  "Name": "Hotel No 144",
+  "Price": 1500,
+  "Location": "Kathmandu",
+  "Rating": 3,
+  "Reviews": "Bad: Just want to say paying 330 for one night would have been nice too get breakfast included in the price. . Good: At least it wasnt too far from TD garden.",
+  "Type": "standard room",
+  "Images": "Room6.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd88"
+  },
+  "Name": "Hotel No 145",
+  "Price": 2000,
+  "Location": "Bharatpur",
+  "Rating": 5,
+  "Reviews": "The bed was uncomfortable It was close walking distance to everything",
+  "Type": "family room",
+  "Images": "Room10.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd89"
+  },
+  "Name": "Hotel No 146",
+  "Price": 1500,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "Good: Staff was great, room small but clean and organized well. Location to TD Garden and restaurants awesome.",
+  "Type": "luxury suite",
+  "Images": "Room5.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd8a"
+  },
+  "Name": "Hotel No 147",
+  "Price": 2000,
+  "Location": "Lalitpur",
+  "Rating": 4,
+  "Reviews": "Good: Perfect location if you're attending an even at the Garden. Very short walk",
+  "Type": "deluxe hotel room",
+  "Images": "Room15.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd8b"
+  },
+  "Name": "Hotel No 148",
+  "Price": 1500,
+  "Location": "Kathmandu",
+  "Rating": 2,
+  "Reviews": "Good: Great location. Extremely comfortable bed and pillows. Wonderful friendly staff.",
+  "Type": "standard deluxe",
+  "Images": "Room10.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd8c"
+  },
+  "Name": "Hotel No 149",
+  "Price": 3500,
+  "Location": " Pokhara",
+  "Rating": 2,
+  "Reviews": "Bad: The bed platforms! Perhaps if they were painted white they would become part of the bed and maybe missed a little more! They are now the colour of the carpet - beware!. Good: The staff! Very helpful and welcoming and happy! Loved the L'octaine toiletries. Free bikes were a good idea too but it rained during my visit.",
+  "Type": "family room",
+  "Images": "Room6.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd8d"
+  },
+  "Name": "Hotel No 150",
+  "Price": 1500,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "Bad: Buffet food.",
+  "Type": "deluxe hotel room",
+  "Images": "Room4.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd8e"
+  },
+  "Name": "Hotel No 151",
+  "Price": 1000,
+  "Location": "Kathmandu",
+  "Rating": 3,
+  "Reviews": "Loved this place! If you are looking for a chain hotel, THIS IS NOT for you. If you are looking for different, unique, friendly, fun...then this is it. We chose the little room with Queen bed, no windows..and it was GREAT. Best bed I've slept in while traveling in a long long time. Although there are internal hotel noises every once and a while..it was by no means disturbing or loud. Location was awesome! We mainly hung out on Decatour street/Jackson square/French market..but even bourbon street was a short walk. Hotel staff is very knowledgeable about places to eat and things to do. We didn't drive here so no idea about parking or valet. Staff was extremely friendly. It's just a super little gem in a crazy town.",
+  "Type": "junior suite room",
+  "Images": "Room6.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd8f"
+  },
+  "Name": "Hotel No 152",
+  "Price": 2000,
+  "Location": "Lalitpur",
+  "Rating": 5,
+  "Reviews": "Great hotel. So much more character than staying in one of the big chain hotels. The building was a transformed warehouse, so walls are old brick, floors are resurfaced wood, etc. Very Cool. Super helpful staff. Great coffee shop restaurant downstairs. Definitely will return.",
+  "Type": "standard room",
+  "Images": "Room7.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd90"
+  },
+  "Name": "Hotel No 153",
+  "Price": 4000,
+  "Location": "Lalitpur",
+  "Rating": 5,
+  "Reviews": "Nice hotel with a great restaurant! Only thing that would have been nice to have it a bathtub rather than just a shower.",
+  "Type": "luxury suite",
+  "Images": "Room2.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd91"
+  },
+  "Name": "Hotel No 154",
+  "Price": 1000,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "Pros- Great customer service, comfortable beds, clean rooms, fantastic room style/decor and safe area. Cons- no pool, no meals available, just a few pastry type items at the bar/lobby",
+  "Type": "family room",
+  "Images": "Room13.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd92"
+  },
+  "Name": "Hotel No 155",
+  "Price": 2000,
+  "Location": " Pokhara",
+  "Rating": 2,
+  "Reviews": "The young, hip hotel guests probaby cringed when they saw me schlep my 4, 6, and 8 year olds through the front door and I immediately realized our family was not the hotel's target demographic, but we LOVED this place. As a former New Orleans resident, this is as local as you can get. Compar Lapin was unbelievable and my children could not get enough of their homemade pasta and gnocchi and probably would have gone home with our server, Clare (that is how much they liked her). The head cocktail crafter, Abby, was super friendly and insanely adorable and her staff was extremely talented and helpful. The room was so comfortable my children slept almost two hours past their norm, which was probably appreciated by the majority of guests who had been tearing up their livers the night before. We did not use maid service so my only suggestion would be a little more counter space in the bath and more towels. Other than that, it was perfect.",
+  "Type": "standard deluxe",
+  "Images": "Room1.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd93"
+  },
+  "Name": "Hotel No 156",
+  "Price": 2000,
+  "Location": " Pokhara",
+  "Rating": 4,
+  "Reviews": "Bad: Better return from the slots!!. Good: Bed excellent, pillows good, shower good with strong flow and hot. Very well maintained public spaces with lots of wood panelling. The piece of the Berlin Wall was quite interesting and all at a very good price.",
+  "Type": "standard deluxe",
+  "Images": "Room15.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd94"
+  },
+  "Name": "Hotel No 157",
+  "Price": 3000,
+  "Location": "Kathmandu",
+  "Rating": 3,
+  "Reviews": "Bad: Thumping music all night long. So loud the windows vibrated.",
+  "Type": "standard deluxe",
+  "Images": "Room11.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd95"
+  },
+  "Name": "Hotel No 158",
+  "Price": 1500,
+  "Location": "Birgunj",
+  "Rating": 4,
+  "Reviews": "Bad: Losing money lol. Good: I like the attitude and service from the staff...i enjoy the atmosphere and the food",
+  "Type": "standard room",
+  "Images": "Room6.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd96"
+  },
+  "Name": "Hotel No 159",
+  "Price": 1500,
+  "Location": " Pokhara",
+  "Rating": 3,
+  "Reviews": "Good: The staff at the place is extremely friendly.Paradise Restaurant buffet good selection, good food, and reasonable cost.",
+  "Type": "standard room",
+  "Images": "Room14.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd97"
+  },
+  "Name": "Hotel No 160",
+  "Price": 1500,
+  "Location": "Birgunj",
+  "Rating": 2,
+  "Reviews": "Bad: The room I booked was a non-smoking but when we got to the hotel, the gentleman at the counter said they didn't have any and have not had any available for several days. The guy then said that in order for me to get my money back, I'd have to go through the third party that I booked the room through. Good: Nothing",
+  "Type": "junior suite room",
+  "Images": "Room13.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd98"
+  },
+  "Name": "Hotel No 161",
+  "Price": 3500,
+  "Location": "Kathmandu",
+  "Rating": 2,
+  "Reviews": "Good: HELPFUL STAFF",
+  "Type": "standard room",
+  "Images": "Room3.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd99"
+  },
+  "Name": "Hotel No 162",
+  "Price": 2000,
+  "Location": "Kathmandu",
+  "Rating": 5,
+  "Reviews": "Bad: That the tv would not switch to the input channel. I wasn't able to use the HDMI port on the TV. Good: The company I had with me. Lol",
+  "Type": "family room",
+  "Images": "Room9.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd9a"
+  },
+  "Name": "Hotel No 163",
+  "Price": 1000,
+  "Location": "Bharatpur",
+  "Rating": 2,
+  "Reviews": "Good: Best gambling in Vegas and best comps! Brewery is great, rooms very clean, staff is wonderful. I only stay at Main Street.",
+  "Type": "standard deluxe",
+  "Images": "Room12.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd9b"
+  },
+  "Name": "Hotel No 164",
+  "Price": 3500,
+  "Location": "Biratnagar",
+  "Rating": 4,
+  "Reviews": "Bad: I still really hate the cigarette smoke in the casino. But other then that (and all the crazies on the fremont experience at night) its fun and awesome!. Good: Location was perfect for our leisure trip. Free valet parking is always amazing (of course we tipped every time we picked up and dropped off our car!) The amount of things to do on the Fremont Experience is endless! What an awesome experience. Truly the 9th island for Hawaiians like us! We love it!",
+  "Type": "family room",
+  "Images": "Room15.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd9c"
+  },
+  "Name": "Hotel No 165",
+  "Price": 3500,
+  "Location": "Bharatpur",
+  "Rating": 4,
+  "Reviews": "Bad: 1st - PARKING LOT **BAD,BAD,BAD** This is 2017, nobody need driver to parking car, unless you're 85 yrs old (should not even drive). But drivers that steals quarters from your rental car, this is very low. 2nd - They asked a deposit of 100. Because I was planning to get it back, I used a BC and not a CC. On check out I was informed that it will take 1 to 2 days. Should I trust on it 3rd - If you sleep on that room 512 and need a AC on, make sure you are deaf or use to leave near NY freeway. The noise of that machine it's worst than sleep on LV international airport at 9am with your windows car open. Will I stay on this hotel again NEVER. Good: Location, access to shopping, and cleanning",
+  "Type": "standard deluxe",
+  "Images": "Room10.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd9d"
+  },
+  "Name": "Hotel No 166",
+  "Price": 3000,
+  "Location": "Biratnagar",
+  "Rating": 2,
+  "Reviews": "Bad: Dirty and old room. Valet parking is not comfortable. Casino is old and has no roulette. If you have a car, you can stay, cause the price is everything. Good: Pretty cheap for Las Vegas",
+  "Type": "standard deluxe",
+  "Images": "Room13.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd9e"
+  },
+  "Name": "Hotel No 167",
+  "Price": 2000,
+  "Location": "Kathmandu",
+  "Rating": 2,
+  "Reviews": "Bad: The hotel is very tired - could use an update. Now, I understand why such a deal. Can not figure out higher rating given to it overall. Good: Location was in the middle of the Freemont Experience.",
+  "Type": "luxury suite",
+  "Images": "Room7.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abd9f"
+  },
+  "Name": "Hotel No 168",
+  "Price": 4000,
+  "Location": "Birgunj",
+  "Rating": 2,
+  "Reviews": "Bad: Not much. Good: For several years, a group of us has met for the SEMA SHOW. We have always come over a day early, and met for fun and dinner at your 777 Microbrewery. This time we were booked at MAIN STREET STATION as well.We'll be back, particularly since you didn't charge resort fees.",
+  "Type": "junior suite room",
+  "Images": "Room13.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abda0"
+  },
+  "Name": "Hotel No 169",
+  "Price": 1500,
+  "Location": " Pokhara",
+  "Rating": 5,
+  "Reviews": "Bad: Check out was too slow. Good: Buffet was excellent",
+  "Type": "standard room",
+  "Images": "Room7.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abda1"
+  },
+  "Name": "Hotel No 170",
+  "Price": 3500,
+  "Location": "Lalitpur",
+  "Rating": 2,
+  "Reviews": "Bad: To be honest, nothing to complain about. Just too bad that there wasn't any free wifi in the rooms. Good: Considering that we only paid 88 dollars for 2 persons for 2 nights, this was great value for money. The hotel is located in the middle of Fremont Street, so you just step outside and you are in the middle of the action. Our room was on the 9th floor and we didn't hear any noise whatsoever. The room was maybe a bit old fashioned, but still offered everything you need. We were positively surprised that we had access to the pool and gym of the California hotel. We just needed to walk 2 mins to access their facilities. The gym was really good equipped for a hotel gym. Pool was really nice and quiet. Would definitely stay here again!",
+  "Type": "junior suite room",
+  "Images": "Room11.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abda2"
+  },
+  "Name": "Hotel No 171",
+  "Price": 1500,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "Bad: This room is straight out of a horror film. Good: I like Fremont st",
+  "Type": "family room",
+  "Images": "Room10.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abda3"
+  },
+  "Name": "Hotel No 172",
+  "Price": 3500,
+  "Location": "Biratnagar",
+  "Rating": 5,
+  "Reviews": "Bad: nothing!. Good: buffet is excellant! room are clean, great view of mountains and saw fireworks in distance.",
+  "Type": "standard room",
+  "Images": "Room6.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abda4"
+  },
+  "Name": "Hotel No 173",
+  "Price": 2000,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "Bad: access to parking. Good: the location",
+  "Type": "deluxe hotel room",
+  "Images": "Room9.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abda5"
+  },
+  "Name": "Hotel No 174",
+  "Price": 1500,
+  "Location": "Kathmandu",
+  "Rating": 3,
+  "Reviews": "Bad: Very satisfied.",
+  "Type": "standard room",
+  "Images": "Room10.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abda6"
+  },
+  "Name": "Hotel No 175",
+  "Price": 3000,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "Bad: The place was falling apart, the tub was cracked and broken. the bathroom shelf was barely holding on. The bed was extremely tough to sleep on. Good: I liked that it was close to entertainment. The shower held a hot water temperature for a long time.",
+  "Type": "deluxe hotel room",
+  "Images": "Room4.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abda7"
+  },
+  "Name": "Hotel No 176",
+  "Price": 2000,
+  "Location": "Kathmandu",
+  "Rating": 4,
+  "Reviews": "Bad: Bathroom was small, noisy outside. Good: Location, beds, price",
+  "Type": "family room",
+  "Images": "Room1.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abda8"
+  },
+  "Name": "Hotel No 177",
+  "Price": 1500,
+  "Location": "Bharatpur",
+  "Rating": 5,
+  "Reviews": "Bad: The parking garage is so hard to find. I passed it at least two times trying to find it. You also can't self park, which is a hassle coming back from being out and about. You have to rush to gather all of your belongings, souvenirs, etc, because the entry bay to the garage will hold two cars at most. You can't dilly dally. Hope that makes sense. Only paid WiFi,which was a big bummer. The express snack bar/grill staff were very unfriendly. Every time I went to the buffet, the line to be seated was always sooo long. I never did end up eating there for that reason. Good: Near all of the Fremont Street Experience stuff.",
+  "Type": "standard deluxe",
+  "Images": "Room15.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abda9"
+  },
+  "Name": "Hotel No 178",
+  "Price": 4000,
+  "Location": " Pokhara",
+  "Rating": 3,
+  "Reviews": "Bad: The cleanliness wasn't the best. One of our towels and bed sheets had red stains on them which the staff informed us was rust, and not blood....upon arrival the toilet wouldn't flush as well. We got stuck in a smoking room even though we didn't book a smoking room. The noise was unbearable, and when combined with the smoke just added up to disaster. Good: Close to the public transportation systems. In the middle of downtown Las Vegas.",
+  "Type": "luxury suite",
+  "Images": "Room3.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdaa"
+  },
+  "Name": "Hotel No 179",
+  "Price": 1000,
+  "Location": "Lalitpur",
+  "Rating": 5,
+  "Reviews": "Bad: smokey air out of elevators. Good: valet parking with security-",
+  "Type": "standard deluxe",
+  "Images": "Room13.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdab"
+  },
+  "Name": "Hotel No 180",
+  "Price": 4000,
+  "Location": "Kathmandu",
+  "Rating": 5,
+  "Reviews": "Bad: Not sure about deluxe room i was in. Good: Location",
+  "Type": "family room",
+  "Images": "Room8.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdac"
+  },
+  "Name": "Hotel No 181",
+  "Price": 1500,
+  "Location": " Pokhara",
+  "Rating": 3,
+  "Reviews": "Good: Close proximity to Freemont Street Experience.",
+  "Type": "junior suite room",
+  "Images": "Room7.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdad"
+  },
+  "Name": "Hotel No 182",
+  "Price": 1000,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "Bad: missed not having a pool or somewhere to sit out and read. we were next to the railway so the train was noisy but we got used to it. Good: loved the food. beds very comfortable. excellent value.",
+  "Type": "standard room",
+  "Images": "Room2.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdae"
+  },
+  "Name": "Hotel No 183",
+  "Price": 3000,
+  "Location": " Pokhara",
+  "Rating": 2,
+  "Reviews": "Bad: I lost roulette. Good: Buffet bb",
+  "Type": "junior suite room",
+  "Images": "Room9.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdaf"
+  },
+  "Name": "Hotel No 184",
+  "Price": 3500,
+  "Location": " Pokhara",
+  "Rating": 3,
+  "Reviews": "Bad: The bathroom needs to be upgraded. It is very worn, the brown wall paper was dirty and the paint on the sink counter was pealing off. was also disappointed the room did not have a coffee maker. I like to have a cup while I get dressed in the mornings. would have liked a non-smoking area in the casino. I am a non-smoker and I had to keep taking breaks and go outside for fresh air. Good: The Beds were great! The location was very good. The gentleman at the Registration desk was very helpful and friendly. And the Lady at the Keno lounge was nice too.",
+  "Type": "standard room",
+  "Images": "Room8.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdb0"
+  },
+  "Name": "Hotel No 185",
+  "Price": 3000,
+  "Location": "Biratnagar",
+  "Rating": 3,
+  "Reviews": "Bad: Not so quiet during the night, since it's really close to highway. Good: The beds were very confortable. The parking was for free, and the location close the Fremont street.",
+  "Type": "standard deluxe",
+  "Images": "Room9.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdb1"
+  },
+  "Name": "Hotel No 186",
+  "Price": 4000,
+  "Location": "Birgunj",
+  "Rating": 3,
+  "Reviews": "Bad: The beds were not too comfortable. Good: I really liked its location, and slot machines, the Paradise Buffet, and Duncan Donuts place within the Fremont Hotel.",
+  "Type": "standard room",
+  "Images": "Room1.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdb2"
+  },
+  "Name": "Hotel No 187",
+  "Price": 3500,
+  "Location": "Kathmandu",
+  "Rating": 5,
+  "Reviews": "Bad: The elevator to the parkade requires some maintenance - at least a wet mop to kill whatever is lurking on the floor!. Good: This resort hotel is amazing - the location in perfect, the rooms are huge, and absolutely spotless!",
+  "Type": "deluxe hotel room",
+  "Images": "Room1.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdb3"
+  },
+  "Name": "Hotel No 188",
+  "Price": 3500,
+  "Location": "Birgunj",
+  "Rating": 3,
+  "Reviews": "Bad: Limited TV channels and no refrigerator or coffee making facility in room. Good: The free parking at the hotel was great and all the staff were very helpful and polite.",
+  "Type": "junior suite room",
+  "Images": "Room5.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdb4"
+  },
+  "Name": "Hotel No 189",
+  "Price": 1500,
+  "Location": "Kathmandu",
+  "Rating": 2,
+  "Reviews": "Bad: Small restroom. Good: Clean room with a great view.",
+  "Type": "deluxe hotel room",
+  "Images": "Room13.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdb5"
+  },
+  "Name": "Hotel No 190",
+  "Price": 1500,
+  "Location": " Pokhara",
+  "Rating": 4,
+  "Reviews": "Bad: Even though we got a non smoking room it still smelled like smoke. Good: Valet parking Duncan doughnut",
+  "Type": "deluxe hotel room",
+  "Images": "Room13.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdb6"
+  },
+  "Name": "Hotel No 191",
+  "Price": 1500,
+  "Location": "Bharatpur",
+  "Rating": 5,
+  "Reviews": "Bad: The hotel bathroom should be remodeled as the bathtub looks quite old. The drain gets clogged easily, and the basin tap handle looks like it is about to fall apart. No free WiFi. No fridge. And even no coffee-maker/kettle. Good: Good location with a few minutes walk to the Mob museum. The hotel is located in the heart of Fremont Experience. Both northbound and southbound bus stops are just beside the hotel building. Besides, the staffs are quite friendly. The buffet was satisfactory, and the price is cheap due to the 10 off for guests every meal.",
+  "Type": "family room",
+  "Images": "Room1.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdb7"
+  },
+  "Name": "Hotel No 192",
+  "Price": 1500,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "Bad: It was hard to get into the parking area because of traffic (an event was going on) no coffee pot in the room. I like to sit and drink coffee for and hour or so before doing anything for the day. I'm not paying 3.00 per cup of coffee. Other than that it was ok. Good: It was a beautiful hotal",
+  "Type": "standard room",
+  "Images": "Room11.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdb8"
+  },
+  "Name": "Hotel No 193",
+  "Price": 2000,
+  "Location": "Birgunj",
+  "Rating": 3,
+  "Reviews": "Bad: Nothing. Good: Location on Fremont",
+  "Type": "standard room",
+  "Images": "Room2.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdb9"
+  },
+  "Name": "Hotel No 194",
+  "Price": 3500,
+  "Location": "Birgunj",
+  "Rating": 2,
+  "Reviews": "Bad: Rooms small, air conditioning don't work!!.",
+  "Type": "standard room",
+  "Images": "Room4.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdba"
+  },
+  "Name": "Hotel No 195",
+  "Price": 4000,
+  "Location": "Kathmandu",
+  "Rating": 4,
+  "Reviews": "Bad: Old, not many outlets. Good: Location and price.",
+  "Type": "family room",
+  "Images": "Room14.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdbb"
+  },
+  "Name": "Hotel No 196",
+  "Price": 2000,
+  "Location": "Birgunj",
+  "Rating": 2,
+  "Reviews": "Bad: No business center..wifi wasnt free..it asked for ten bucks...the internet kiosk was 650 for 30 mins..but deducted 20 mins to print boarding passes and no shuttle to airport. Good: Location",
+  "Type": "standard room",
+  "Images": "Room11.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdbc"
+  },
+  "Name": "Hotel No 197",
+  "Price": 2000,
+  "Location": "Biratnagar",
+  "Rating": 4,
+  "Reviews": "Bad: I was in room 314, and its very noisy at night with the street ambiance, so dont expect to sleep before 2AM. I had to take my breakfast to adjacent hotels as continental / seated proper breakfast was not available (or couldnt find it...). Good: The bed was confortable and the location is just amazing on Fremont street.",
+  "Type": "standard deluxe",
+  "Images": "Room13.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdbd"
+  },
+  "Name": "Hotel No 198",
+  "Price": 3000,
+  "Location": " Pokhara",
+  "Rating": 4,
+  "Reviews": "Bad: Main Street Station recently implemented paid parking (I stayed last week and it was still free). Although parking is free for hotel guests, they have not worked the kinks out of the system. We almost missed our flight due to being unable to leave the lot. Security had to be called and that person told us that there have been a large number of similar episodes. They need to FIX this!. Good: Everything EXCEPT the parking.",
+  "Type": "standard room",
+  "Images": "Room4.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdbe"
+  },
+  "Name": "Hotel No 199",
+  "Price": 2000,
+  "Location": " Pokhara",
+  "Rating": 2,
+  "Reviews": "Bad: none.",
+  "Type": "luxury suite",
+  "Images": "Room4.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdbf"
+  },
+  "Name": "Hotel No 200",
+  "Price": 3500,
+  "Location": "Lalitpur",
+  "Rating": 5,
+  "Reviews": "Bad: Th e food wasnt that good. Good: The breakfast buffett was good, the other 2 restaurants were just fair, in fact in one of them I got sick with the food.",
+  "Type": "standard deluxe",
+  "Images": "Room3.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdc0"
+  },
+  "Name": "Hotel No 201",
+  "Price": 1000,
+  "Location": "Kathmandu",
+  "Rating": 2,
+  "Reviews": "Good: The rooms were very comfortable, clean, and well maintained",
+  "Type": "standard room",
+  "Images": "Room13.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdc1"
+  },
+  "Name": "Hotel No 202",
+  "Price": 2000,
+  "Location": "Kathmandu",
+  "Rating": 3,
+  "Reviews": "Bad: There's nothing not to like here. Though the maid service was good but they are kind of early to knock at the door for cleaning service. They're there at 8am and we were still in dreamland that we were forced to get up and open the door to talk to them to clean later. Good: We love our very spacious room though we didn't have a single king sized bed. They gave us twin beds but it's fine. The Garden court buffet was also great! It was very affordable. We almost eat there everyday because of its price. Please keep it that way.",
+  "Type": "standard deluxe",
+  "Images": "Room2.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdc2"
+  },
+  "Name": "Hotel No 203",
+  "Price": 3000,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "Bad: The airconditioner in the room did not work, and it made a very loud sound all night. We told the front desk and they were able to fix it for the next night stay. It's understandable because the hotel itself is very old. We would probably stay in a different hotel when we go back. Good: Staff was very helpful and nice. Tony Romo's restaurant was very good.",
+  "Type": "junior suite room",
+  "Images": "Room12.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdc3"
+  },
+  "Name": "Hotel No 204",
+  "Price": 1000,
+  "Location": " Pokhara",
+  "Rating": 5,
+  "Reviews": "Bad: Bed was not comfortable - they need to replace the mattress. Good: Room was clean.",
+  "Type": "luxury suite",
+  "Images": "Room4.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdc4"
+  },
+  "Name": "Hotel No 205",
+  "Price": 3500,
+  "Location": " Pokhara",
+  "Rating": 5,
+  "Reviews": "Bad: The entire place smells like an ashtray. The rooms were small and the place is noisy. It's a complete freak show under the canopy---ugly people who are 90 nude with no talent. Wall to wall beggars and hawkers. The entire Las Vegas is full of annoying street hustlers and creeps. What a waste of our First Amendment Rights! Next time I go to LV, I will stay in a South Vegas Hotel, go to a show and leave the next day. Too bad Vegas is stuck with such a beggar and homeless problem. Good: It was on my bucket list and I wanted to experience the canopy light show---ok, check it off. Good deals on food: Tony Roma's is located within the Fremont Hotel and steak and lobster for 11.99 is a DEAL! The Valet Parking was free and excellent. The entire Staff was excellent but seemed embarrassed to be in such a dump. It was cheap but you pay for it if your not a smoker.",
+  "Type": "junior suite room",
+  "Images": "Room15.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdc5"
+  },
+  "Name": "Hotel No 206",
+  "Price": 4000,
+  "Location": "Kathmandu",
+  "Rating": 5,
+  "Reviews": "Bad: The bathroom is very small, smaller than I am used to. The saimin noodle soup at the cafe was terrible, the noodles were mushy and blend. Good: Location was right. The buffet was so so. The food at the cafe was okay. The rooms are kind of small but okay.",
+  "Type": "junior suite room",
+  "Images": "Room12.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdc6"
+  },
+  "Name": "Hotel No 207",
+  "Price": 1000,
+  "Location": "Bharatpur",
+  "Rating": 3,
+  "Reviews": "Bad: The pool was not at the hotel had to go to another hotel to swim and that is not stated when your booking your room. Just make it clear that there is not a pool at the hotel other than that loved the hotel!. Good: Great place to stay",
+  "Type": "family room",
+  "Images": "Room1.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdc7"
+  },
+  "Name": "Hotel No 208",
+  "Price": 4000,
+  "Location": "Lalitpur",
+  "Rating": 2,
+  "Reviews": "Bad: in old town, far away from new main strip noisy air-con in room decor abit old. Good: cheap buffet with good quality big room comfort bed",
+  "Type": "junior suite room",
+  "Images": "Room10.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdc8"
+  },
+  "Name": "Hotel No 209",
+  "Price": 1500,
+  "Location": "Birgunj",
+  "Rating": 4,
+  "Reviews": "Bad: The bed was stiff and valet parking only. Wifi is pay only and didn't live up to the speed expectations as advertised. Good: The location is great, easy access to all of Fremont area with a short walk. Not being a giant casino you don't have to walk far from the car or through the place to get out.",
+  "Type": "junior suite room",
+  "Images": "Room10.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdc9"
+  },
+  "Name": "Hotel No 210",
+  "Price": 1500,
+  "Location": "Birgunj",
+  "Rating": 3,
+  "Reviews": "Bad: Extremely disappointed in Fremont Street. It used to be my favorite place to play/stay in Vegas but I will not be back. Very strange people just standing in the middle of the street. Cartoon characters, men in thongs and even one in an adult diaper! It's Hollywood Blvd on steroids! Thanks for the memories, Downtown Las Vegas. The Fremont Street Experience is one I do not wish to repeat!. Good: The hotel was very nice, much nicer than The Plaza next door.",
+  "Type": "junior suite room",
+  "Images": "Room2.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdca"
+  },
+  "Name": "Hotel No 211",
+  "Price": 3500,
+  "Location": "Kathmandu",
+  "Rating": 4,
+  "Reviews": "Bad: My room was near the ventilation system and there was a lot a noise coming from that. Good: Excelent location in the freemont Experience.",
+  "Type": "family room",
+  "Images": "Room4.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdcb"
+  },
+  "Name": "Hotel No 212",
+  "Price": 1000,
+  "Location": " Pokhara",
+  "Rating": 2,
+  "Reviews": "Bad: There were a couple younger staff at the desk during mid day times that seemed bothered by questions. Good: Easy to park. The room was clean and cool. Valet staff was really nice. Steve the maintence man was amazing. I dropped my pearl earring down the bathroom sink. He took the time to take the loop of the drain and get my pearl earring back. I was grateful for his extra service and care.",
+  "Type": "junior suite room",
+  "Images": "Room7.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdcc"
+  },
+  "Name": "Hotel No 213",
+  "Price": 4000,
+  "Location": "Birgunj",
+  "Rating": 4,
+  "Reviews": "Bad: Waitress didn't come around a lot even with tipping. The hotel was older and had some cosmetic problems. Good: Lots to around the property and decent food prices. The buffet was really good.",
+  "Type": "junior suite room",
+  "Images": "Room11.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdcd"
+  },
+  "Name": "Hotel No 214",
+  "Price": 3500,
+  "Location": "Birgunj",
+  "Rating": 2,
+  "Reviews": "Bad: When we left there was a valet parking worker that made us put are luggage on the cart. But other than we had an awsome time there. Good: The location and the restaurants were great I enjoyed the buffet!",
+  "Type": "standard deluxe",
+  "Images": "Room7.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdce"
+  },
+  "Name": "Hotel No 215",
+  "Price": 1500,
+  "Location": "Bharatpur",
+  "Rating": 2,
+  "Reviews": "Bad: Rude staff. Cleaniness. Bed. Had to change rooms three times. I will never stay there again!. Good: Nothing",
+  "Type": "deluxe hotel room",
+  "Images": "Room4.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdcf"
+  },
+  "Name": "Hotel No 216",
+  "Price": 1500,
+  "Location": "Biratnagar",
+  "Rating": 5,
+  "Reviews": "Good: Good hotel at Fremont street. But do not expect something special. Relatively old rooms, no WIFI in the rooms, but the bed was comfortable, the staff was nice, and the Hotel is direct in the heart of Old Las Vegas.",
+  "Type": "family room",
+  "Images": "Room14.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdd0"
+  },
+  "Name": "Hotel No 217",
+  "Price": 3500,
+  "Location": "Lalitpur",
+  "Rating": 2,
+  "Reviews": "Bad: Pricey, but it was fathers day weekend. Good: Access to downtown",
+  "Type": "family room",
+  "Images": "Room14.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdd1"
+  },
+  "Name": "Hotel No 218",
+  "Price": 1500,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "Bad: No pool. Good: Every thing was walking distance",
+  "Type": "standard room",
+  "Images": "Room9.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdd2"
+  },
+  "Name": "Hotel No 219",
+  "Price": 4000,
+  "Location": " Pokhara",
+  "Rating": 3,
+  "Reviews": "Bad: Dirty, tiny bathroom and no pool. Good: Prime rib meal deal at Roma's",
+  "Type": "standard room",
+  "Images": "Room15.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdd3"
+  },
+  "Name": "Hotel No 220",
+  "Price": 2000,
+  "Location": "Biratnagar",
+  "Rating": 2,
+  "Reviews": "Bad: A fridge in the room would be super nice. Good: The room was very clean, beds comfy and 3 pillows. Every one was friendly. Great valet staff.",
+  "Type": "junior suite room",
+  "Images": "Room4.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdd4"
+  },
+  "Name": "Hotel No 221",
+  "Price": 1000,
+  "Location": "Birgunj",
+  "Rating": 3,
+  "Reviews": "Bad: The bar is a little on the expensive side. Drinks are very small for the price. The bartender we had was very slow and not very friendly. We waited about 10 minutes before we were served. It wasn't busy either. Good: Staff was very nice and helpful. The location of the hotel is very convenient.",
+  "Type": "deluxe hotel room",
+  "Images": "Room8.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdd5"
+  },
+  "Name": "Hotel No 222",
+  "Price": 3000,
+  "Location": "Bharatpur",
+  "Rating": 2,
+  "Reviews": "Bad: I loved everything. The parking, the restaurant ,the rooms and the the several acts that perform every night in the downtown area. Good: The people at the front desk were superb. They upgraded me to a real nice room.",
+  "Type": "luxury suite",
+  "Images": "Room4.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdd6"
+  },
+  "Name": "Hotel No 223",
+  "Price": 1000,
+  "Location": "Biratnagar",
+  "Rating": 4,
+  "Reviews": "Bad: the noise fm the live bands when trying to sleep.",
+  "Type": "standard room",
+  "Images": "Room3.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdd7"
+  },
+  "Name": "Hotel No 224",
+  "Price": 1000,
+  "Location": "Bharatpur",
+  "Rating": 5,
+  "Reviews": "Bad: Might need a little updating. Good: Conveniently located on Fremont",
+  "Type": "family room",
+  "Images": "Room10.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdd8"
+  },
+  "Name": "Hotel No 225",
+  "Price": 4000,
+  "Location": "Lalitpur",
+  "Rating": 2,
+  "Reviews": "Bad: Better meal choices. Pool and fitness center on property. Good: Ease of conveniece to everything I needed",
+  "Type": "deluxe hotel room",
+  "Images": "Room3.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdd9"
+  },
+  "Name": "Hotel No 226",
+  "Price": 3500,
+  "Location": "Bharatpur",
+  "Rating": 4,
+  "Reviews": "Bad: That I had to leave great place. Good: Everything very nice room food service",
+  "Type": "deluxe hotel room",
+  "Images": "Room6.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdda"
+  },
+  "Name": "Hotel No 227",
+  "Price": 3000,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "Bad: There is handicap parking for checking in but not close after checking in. Good: Everything was convenient and costs of the buffet were not bad. Prices in the restaurant were affordable.",
+  "Type": "standard room",
+  "Images": "Room12.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abddb"
+  },
+  "Name": "Hotel No 228",
+  "Price": 2000,
+  "Location": "Kathmandu",
+  "Rating": 3,
+  "Reviews": "Bad: My money was stolen at the valet... room was dirty and had to get another then key card didn't work for new room. Manager did his best but I was disappointed. Good: Location",
+  "Type": "luxury suite",
+  "Images": "Room2.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abddc"
+  },
+  "Name": "Hotel No 229",
+  "Price": 3000,
+  "Location": "Kathmandu",
+  "Rating": 4,
+  "Reviews": "Good: The hotel is really beautiful! A little old, but clean and comfortable. The price is also good.",
+  "Type": "junior suite room",
+  "Images": "Room9.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abddd"
+  },
+  "Name": "Hotel No 230",
+  "Price": 2000,
+  "Location": "Biratnagar",
+  "Rating": 3,
+  "Reviews": "Bad: safe is too small for dslr camera or laptop. not acceptable. Good: good location, good food, good price",
+  "Type": "standard deluxe",
+  "Images": "Room12.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdde"
+  },
+  "Name": "Hotel No 231",
+  "Price": 3000,
+  "Location": "Lalitpur",
+  "Rating": 4,
+  "Reviews": "Bad: The bar tender in the Casino was not at all friendly or attentive. Good: very nice restored hotel. Excellent condition. Great atmosphere. A very nice place to stay in Downtown Las Vegas",
+  "Type": "family room",
+  "Images": "Room11.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abddf"
+  },
+  "Name": "Hotel No 232",
+  "Price": 3500,
+  "Location": "Birgunj",
+  "Rating": 5,
+  "Reviews": "Bad: rooms are dated, not as clean as I like. casino is crowded - too many machines.",
+  "Type": "family room",
+  "Images": "Room8.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abde0"
+  },
+  "Name": "Hotel No 233",
+  "Price": 1000,
+  "Location": "Lalitpur",
+  "Rating": 4,
+  "Reviews": "Bad: Not a thing. Good: The room was nice and clean, bed was very comfy. The restaurants were all great the Buffet was awesome.......... So much to do in the aera",
+  "Type": "standard deluxe",
+  "Images": "Room12.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abde1"
+  },
+  "Name": "Hotel No 234",
+  "Price": 4000,
+  "Location": "Bharatpur",
+  "Rating": 2,
+  "Reviews": "Bad: Shower Tub clogged. Good: Convenient location. Reasonable food prices. Awesome selection of cuisine. Helpful staff!",
+  "Type": "standard room",
+  "Images": "Room13.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abde2"
+  },
+  "Name": "Hotel No 235",
+  "Price": 4000,
+  "Location": " Pokhara",
+  "Rating": 3,
+  "Reviews": "Bad: Hassle checking in confirmation email lost by bookings or Fremont hotel had my email almost didn't use mine scary .",
+  "Type": "luxury suite",
+  "Images": "Room7.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abde3"
+  },
+  "Name": "Hotel No 236",
+  "Price": 1500,
+  "Location": "Biratnagar",
+  "Rating": 3,
+  "Reviews": "Bad: Rude staff. Couldnt find our reservations waited 2 hrs to confirm eventhough prepaid..rooms not cleaned. Got smoking instead of non smoking. Will not be staying there anytime soon not. Good: Location",
+  "Type": "junior suite room",
+  "Images": "Room10.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abde4"
+  },
+  "Name": "Hotel No 237",
+  "Price": 1500,
+  "Location": "Kathmandu",
+  "Rating": 3,
+  "Reviews": "Bad: Room was a lot smaller than I expected, and seemed a bit rundown. Not to mention we were supposed to be on a floor that was nonsmoking. The floor smelled of a smoking lounge. Good: Location and staff were awesome. Had a great view of Freemont street from our room.",
+  "Type": "deluxe hotel room",
+  "Images": "Room10.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abde5"
+  },
+  "Name": "Hotel No 238",
+  "Price": 1000,
+  "Location": "Biratnagar",
+  "Rating": 5,
+  "Reviews": "Bad: wifi is chargeable. Good: location, casino was cheap, food is just in the hotel (buffet, donuts, etc)",
+  "Type": "standard room",
+  "Images": "Room3.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abde6"
+  },
+  "Name": "Hotel No 239",
+  "Price": 2000,
+  "Location": "Biratnagar",
+  "Rating": 2,
+  "Reviews": "Bad: needs to be updated a bit forsure. Good: i like that they upgraded our room for one night the beds were very comfy and staff were great and we felt very safe after what happened",
+  "Type": "junior suite room",
+  "Images": "Room1.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abde7"
+  },
+  "Name": "Hotel No 240",
+  "Price": 2000,
+  "Location": "Lalitpur",
+  "Rating": 5,
+  "Reviews": "Bad: Only thing I would have changed is the climate control. It did not go anywhere near as high as I would like for it to go. Maybe it was just my room, but definitely could have been cooler. Good: Got more than what I expected from this hotel! They let me choose what floor I wanted to be on, which I've never gotten from anywhere else. Location is PRIME. Fremont Street is right outside their doors! The room is just like any other average hotel. It was very clean and comfortable. Michael Ovalles was very helpful in showing us around. He also helped us get our player cards and a complimentary deck of cards to enjoy our stay!",
+  "Type": "standard deluxe",
+  "Images": "Room15.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abde8"
+  },
+  "Name": "Hotel No 241",
+  "Price": 3500,
+  "Location": " Pokhara",
+  "Rating": 5,
+  "Reviews": "Bad: The shower didnt drain. The pillows were horrible. My feet stuck to the carpet in the room. Good: Location",
+  "Type": "standard deluxe",
+  "Images": "Room15.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abde9"
+  },
+  "Name": "Hotel No 242",
+  "Price": 1500,
+  "Location": " Pokhara",
+  "Rating": 2,
+  "Reviews": "Bad: Seemed old, our ac didnt work. Good: Location",
+  "Type": "luxury suite",
+  "Images": "Room11.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdea"
+  },
+  "Name": "Hotel No 243",
+  "Price": 1000,
+  "Location": "Birgunj",
+  "Rating": 4,
+  "Reviews": "Bad: good. Good: yes",
+  "Type": "standard room",
+  "Images": "Room6.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdeb"
+  },
+  "Name": "Hotel No 244",
+  "Price": 1500,
+  "Location": "Biratnagar",
+  "Rating": 3,
+  "Reviews": "Bad: Smoking. Good: Not crowded",
+  "Type": "standard room",
+  "Images": "Room6.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdec"
+  },
+  "Name": "Hotel No 245",
+  "Price": 3500,
+  "Location": "Biratnagar",
+  "Rating": 2,
+  "Reviews": "Bad: The ventilation system was not adequate for the building. Everything including room smelled like cigarette smoke. Good: restaurant",
+  "Type": "standard room",
+  "Images": "Room13.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abded"
+  },
+  "Name": "Hotel No 246",
+  "Price": 3000,
+  "Location": "Lalitpur",
+  "Rating": 2,
+  "Reviews": "Bad: The room was hot the ac didn't work . the beds looked like full beds had to put both together . other than that everything else was fine. Good: It was nice staying at the Fremont loved going out to the street to see everything happening all the bands playing never did that before .",
+  "Type": "standard deluxe",
+  "Images": "Room11.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdee"
+  },
+  "Name": "Hotel No 247",
+  "Price": 1000,
+  "Location": "Lalitpur",
+  "Rating": 2,
+  "Reviews": "Bad: Valet scrapped my car on the wall and no fridge in the room. Good: It was clean and close to everything!",
+  "Type": "family room",
+  "Images": "Room9.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdef"
+  },
+  "Name": "Hotel No 248",
+  "Price": 1500,
+  "Location": "Lalitpur",
+  "Rating": 2,
+  "Reviews": "Bad: Non smoking rooms smelt like smoke and just all the cigerate smoke throughout hotel. And room drains slow draining. Good: I liked the lanai restaurant and valet parking",
+  "Type": "luxury suite",
+  "Images": "Room7.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdf0"
+  },
+  "Name": "Hotel No 249",
+  "Price": 4000,
+  "Location": "Lalitpur",
+  "Rating": 5,
+  "Reviews": "Bad: The wait to enter the buffet was too long never got in the whole week.. When I went to the other restaraunt I was told I couldn't order certain items as they are for happy hour only so I left. They also did not have a pool or any alternative except travel 18 miles to their other facility and use their pool. They never even gave me a discount for lack of this facitilityor even notifying me as I made my reservation months in advance, I also did not like having to park outside of the parking garage only cause I was riding a motorcycle the parking garage was for cars only. I felt as though I was a second class citizen, no laundry facility service or machines . Good: The location was good and the staff especially the cleaning of my room was great.",
+  "Type": "junior suite room",
+  "Images": "Room1.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdf1"
+  },
+  "Name": "Hotel No 250",
+  "Price": 4000,
+  "Location": " Pokhara",
+  "Rating": 4,
+  "Reviews": "Bad: Short staffed at the registration desk. Good: Great location and price was right",
+  "Type": "standard room",
+  "Images": "Room2.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdf2"
+  },
+  "Name": "Hotel No 251",
+  "Price": 1500,
+  "Location": "Kathmandu",
+  "Rating": 5,
+  "Reviews": "Bad: It's not the hotels fault, but the sirens on the street woke me up. Good: The best bed I've slept in besides the one at home! Enjoyed all the pillows! Even though the hotel is older, the room was fine! The bathroom was generous, with a good shower.",
+  "Type": "family room",
+  "Images": "Room14.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdf3"
+  },
+  "Name": "Hotel No 252",
+  "Price": 1000,
+  "Location": " Pokhara",
+  "Rating": 3,
+  "Reviews": "Bad: The cleanliness wasn't the best. One of our towels and bed sheets had red stains on them which the staff informed us was rust, and not blood....upon arrival the toilet wouldn't flush as well. We got stuck in a smoking room even though we didn't book a smoking room. The noise was unbearable, and when combined with the smoke just added up to disaster. Good: Close to the public transportation systems. In the middle of downtown Las Vegas.",
+  "Type": "standard deluxe",
+  "Images": "Room15.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdf4"
+  },
+  "Name": "Hotel No 253",
+  "Price": 1500,
+  "Location": "Biratnagar",
+  "Rating": 5,
+  "Reviews": "Bad: No self parking.. had to reach down to flush toilet. Good: Location",
+  "Type": "luxury suite",
+  "Images": "Room13.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdf5"
+  },
+  "Name": "Hotel No 254",
+  "Price": 1000,
+  "Location": "Kathmandu",
+  "Rating": 3,
+  "Reviews": "Bad: The bathroom was gross. The inside of the tub was peeling.The ceiling looks as if it had a previous flood upstairs. Good: The buffet was good.The location of the hotel was great.",
+  "Type": "deluxe hotel room",
+  "Images": "Room3.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdf6"
+  },
+  "Name": "Hotel No 255",
+  "Price": 2000,
+  "Location": "Bharatpur",
+  "Rating": 4,
+  "Reviews": "Bad: We liked everything. Good: The beds were comfortable the rooms were clean",
+  "Type": "luxury suite",
+  "Images": "Room3.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdf7"
+  },
+  "Name": "Hotel No 256",
+  "Price": 3500,
+  "Location": "Biratnagar",
+  "Rating": 5,
+  "Reviews": "Good: The location was easily accessible to any downtown activities and the strip, we went to the pinball neon museum and the fremont street experience in one day. It was great",
+  "Type": "standard room",
+  "Images": "Room4.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdf8"
+  },
+  "Name": "Hotel No 257",
+  "Price": 3500,
+  "Location": "Biratnagar",
+  "Rating": 2,
+  "Reviews": "Bad: Old outdated rooms, even though its a classic hotel does not mean they dont have to put forth effort to modernize rooms. Good: Was right in Fremont street",
+  "Type": "family room",
+  "Images": "Room1.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdf9"
+  },
+  "Name": "Hotel No 258",
+  "Price": 1500,
+  "Location": " Pokhara",
+  "Rating": 2,
+  "Reviews": "Bad: One of the things we did not like was the fact that we couldn't wake up to a cup of coffee in the morning without paying an arm and a leg for one. The other was that they should at least offer free coffee and beverages to their customers. Washington State casino have a coffee and soda machines for their customers to enjoy as they play. I also do not like the idea of casinos shoving resorts fees down a person throat when they know that the percentage of customers do not use the resorts. Good: I enjoyed the friendly staff.",
+  "Type": "standard deluxe",
+  "Images": "Room15.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdfa"
+  },
+  "Name": "Hotel No 259",
+  "Price": 3000,
+  "Location": "Bharatpur",
+  "Rating": 2,
+  "Reviews": "Good: The hotel room was spacious and very comforting.....",
+  "Type": "luxury suite",
+  "Images": "Room6.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdfb"
+  },
+  "Name": "Hotel No 260",
+  "Price": 2000,
+  "Location": "Lalitpur",
+  "Rating": 2,
+  "Reviews": "Bad: We hated the window were fake. Good: I liked the location the most",
+  "Type": "standard deluxe",
+  "Images": "Room3.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdfc"
+  },
+  "Name": "Hotel No 261",
+  "Price": 2000,
+  "Location": "Birgunj",
+  "Rating": 5,
+  "Reviews": "Bad: The room needs to be updated. The bathroom fixtures needs to be renovated. The layout of the room was a little a awkward, there needs to be better lighting and a vanity under the large mirror. The property itself could use use an update as well, it needs to be modernized. Good: It was close to all the activities on Fremont Street. I enjoyed being in the center of Downtown, everything was within walking distance.",
+  "Type": "standard deluxe",
+  "Images": "Room11.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdfd"
+  },
+  "Name": "Hotel No 262",
+  "Price": 2000,
+  "Location": "Biratnagar",
+  "Rating": 3,
+  "Reviews": "Bad: The bed was too soft for my mate and we need more pillows. They were happy to provide the additional pillows. Good: The entire staff was very nice. The room was clean and we stayed on the north-side and did not hear any noise from Fremont Street.",
+  "Type": "junior suite room",
+  "Images": "Room4.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdfe"
+  },
+  "Name": "Hotel No 263",
+  "Price": 1500,
+  "Location": " Pokhara",
+  "Rating": 5,
+  "Reviews": "Bad: Street noise. Good: Decor, table games, dining",
+  "Type": "family room",
+  "Images": "Room15.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abdff"
+  },
+  "Name": "Hotel No 264",
+  "Price": 3500,
+  "Location": "Birgunj",
+  "Rating": 4,
+  "Reviews": "Bad: No wifi in the rooms in 2017. Good: Great location! Friendly staff and you can buy your breakfast in the casino. There is no free Wifi in the rooms, but you can enjoy free Wifi in the lobby. Room was spacious enough and linnens were clean. Room looked like it was recently updated and we enjoyed our stay.",
+  "Type": "family room",
+  "Images": "Room15.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe00"
+  },
+  "Name": "Hotel No 265",
+  "Price": 3000,
+  "Location": " Pokhara",
+  "Rating": 3,
+  "Reviews": "Bad: Nothing . Good: Really nice casino brew pub hotel rooms were massive and clean great location for fremount street and affordable drink and food prices easy to get to the strip using local transport",
+  "Type": "family room",
+  "Images": "Room12.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe01"
+  },
+  "Name": "Hotel No 266",
+  "Price": 1500,
+  "Location": "Kathmandu",
+  "Rating": 4,
+  "Reviews": "Bad: the entire atmosphere of being downtown Las Vegas. Good: Everything was very convenient to get to.",
+  "Type": "standard deluxe",
+  "Images": "Room15.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe02"
+  },
+  "Name": "Hotel No 267",
+  "Price": 4000,
+  "Location": "Birgunj",
+  "Rating": 5,
+  "Reviews": "Bad: That I couldn't stay longer because of work. Good: All the lights and the view",
+  "Type": "family room",
+  "Images": "Room5.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe03"
+  },
+  "Name": "Hotel No 268",
+  "Price": 3500,
+  "Location": " Pokhara",
+  "Rating": 3,
+  "Reviews": "Bad: I guess the lack of facilities in the modern world. No pool, hot tub, gym. We got lost a few times walking down stairs, even went into their staff lounge and kitchen by accident. No free wifi anywhere! 10 a day per device.... Good: We loved being in the center of action and its great value. All the staff were very helpful.",
+  "Type": "deluxe hotel room",
+  "Images": "Room2.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe04"
+  },
+  "Name": "Hotel No 269",
+  "Price": 1500,
+  "Location": "Kathmandu",
+  "Rating": 2,
+  "Reviews": "Bad: Beds were very hard and lumpy, rooms and hallways smelled of smoke and the AC cooled barely. Good: Ease of access to multiple things, great places to eat.",
+  "Type": "standard room",
+  "Images": "Room10.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe05"
+  },
+  "Name": "Hotel No 270",
+  "Price": 1500,
+  "Location": "Bharatpur",
+  "Rating": 2,
+  "Reviews": "Bad: Had some trouble regulating the water temperature in the shower. Good: The use of space was excellent and the room and the bed very comfortable.",
+  "Type": "family room",
+  "Images": "Room9.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe06"
+  },
+  "Name": "Hotel No 271",
+  "Price": 3500,
+  "Location": "Birgunj",
+  "Rating": 5,
+  "Reviews": "Good: Courteous and helpful staff! Excellent location. Close to prudential and shopping. Highly recommend",
+  "Type": "family room",
+  "Images": "Room4.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe07"
+  },
+  "Name": "Hotel No 272",
+  "Price": 2000,
+  "Location": "Kathmandu",
+  "Rating": 2,
+  "Reviews": "Bad: Breakfast was missing protein. Only bagels and donuts. Good: Location! Location! Location!",
+  "Type": "luxury suite",
+  "Images": "Room1.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe08"
+  },
+  "Name": "Hotel No 273",
+  "Price": 2000,
+  "Location": "Biratnagar",
+  "Rating": 3,
+  "Reviews": "Bad: The breakfast was minimal. The rooms were tiny. There wasn't a workout room. Good: The room location was at the back of the hotel and quiet.",
+  "Type": "luxury suite",
+  "Images": "Room9.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe09"
+  },
+  "Name": "Hotel No 274",
+  "Price": 4000,
+  "Location": " Pokhara",
+  "Rating": 2,
+  "Reviews": "Bad: Rooms were pretty small, definitely not suited for a family but great for a couple. Good: Great location, Comfortable rooms, breakfast was good (beagles, cream cheese, donuts and coffee.)",
+  "Type": "luxury suite",
+  "Images": "Room4.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe0a"
+  },
+  "Name": "Hotel No 275",
+  "Price": 3000,
+  "Location": "Bharatpur",
+  "Rating": 2,
+  "Reviews": "Bad: Breakfast pretty modest but I could leave with that!. Good: Excellent location next to attractions, commercial area, everything. Friendly and helpful staff. The room was not big but well equipped. Good price for Boston which is an expensive city.",
+  "Type": "deluxe hotel room",
+  "Images": "Room9.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe0b"
+  },
+  "Name": "Hotel No 276",
+  "Price": 3500,
+  "Location": " Pokhara",
+  "Rating": 5,
+  "Reviews": "Bad: Very expensive hotel relative to services eg Breakfast is repetitive and very weighted to carbohydrates. No skimmed milk, only half and half. Lounge area a little jaded, perhaps Remember to add in the tax etc as this significantly adds to the cost of the hotel. Good: The location is central to a range of must-see sights",
+  "Type": "standard deluxe",
+  "Images": "Room12.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe0c"
+  },
+  "Name": "Hotel No 277",
+  "Price": 3500,
+  "Location": "Lalitpur",
+  "Rating": 2,
+  "Reviews": "Bad: Room is on the small side. I was on one of the back rooms. There are no views and other buildings can see inside your room since windows are high. Breakfast is not attended and no hot option. Very narrow corridors. Good: The decor of the room is very modern and pleasing with sound equipment for those that want to listen to music with speakers on the wall. Floor of shower is non-slippery. Decor of the bathroom is also very nice. Location is outstanding with Copley subway station accross the street as well as bus stop. Restuarants and shops in Newbury Street one block away. Bagels and donuts in breakfast were fresh.",
+  "Type": "family room",
+  "Images": "Room15.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe0d"
+  },
+  "Name": "Hotel No 278",
+  "Price": 3500,
+  "Location": " Pokhara",
+  "Rating": 3,
+  "Reviews": "Bad: noisy room heater/AC unit. Good: location, small comfortable room.",
+  "Type": "standard deluxe",
+  "Images": "Room14.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe0e"
+  },
+  "Name": "Hotel No 279",
+  "Price": 4000,
+  "Location": "Kathmandu",
+  "Rating": 5,
+  "Reviews": "Good: Great location. Friendly, helpful staff. Good breakfast, nice to have a lounge to sit and read the newspapers provided. Stored luggage until we were ready to leave. Would stay again.",
+  "Type": "family room",
+  "Images": "Room10.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe0f"
+  },
+  "Name": "Hotel No 280",
+  "Price": 2000,
+  "Location": "Kathmandu",
+  "Rating": 4,
+  "Reviews": "Bad: I didn't see that there was breakfast available at the hotel. Good: Location was amazing!!!! Room was a little tight for two but very nice",
+  "Type": "luxury suite",
+  "Images": "Room2.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe10"
+  },
+  "Name": "Hotel No 281",
+  "Price": 3500,
+  "Location": " Pokhara",
+  "Rating": 3,
+  "Reviews": "Bad: parking. Good: BREAKFAST AND THE BAR WERE REAL NICE........BARTENDER chris ..great guy",
+  "Type": "family room",
+  "Images": "Room13.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe11"
+  },
+  "Name": "Hotel No 282",
+  "Price": 1000,
+  "Location": "Biratnagar",
+  "Rating": 5,
+  "Reviews": "Good: My wife and I stayed at the charlesmark for 4 days. The hotel staff was very friendly and accommodating. Room was a little small, but very clean and modern.",
+  "Type": "luxury suite",
+  "Images": "Room11.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe12"
+  },
+  "Name": "Hotel No 283",
+  "Price": 4000,
+  "Location": "Biratnagar",
+  "Rating": 5,
+  "Reviews": "Good: Location is fabulous. Got there very early and was able to check in! Room was clean and modern. Love this hotel!",
+  "Type": "standard room",
+  "Images": "Room14.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe13"
+  },
+  "Name": "Hotel No 284",
+  "Price": 4000,
+  "Location": "Lalitpur",
+  "Rating": 5,
+  "Reviews": "Bad: One of the room maids kept forgetting to leave sufficient quantities of basic toiletries and the quality of bathroom cleaning could have been better. Good: Very friendly receptionist personnel, special thanks to Jesse! Nice view to the Library, added to the room booking for free. Plenty of varied places to eat out within a few mins walk from the hotel, catering for all choices.",
+  "Type": "junior suite room",
+  "Images": "Room11.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe14"
+  },
+  "Name": "Hotel No 285",
+  "Price": 3500,
+  "Location": " Pokhara",
+  "Rating": 3,
+  "Reviews": "Bad: Outlook from room. Good: Staff helpfulness Well designed use of limited space",
+  "Type": "luxury suite",
+  "Images": "Room15.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe15"
+  },
+  "Name": "Hotel No 286",
+  "Price": 4000,
+  "Location": "Bharatpur",
+  "Rating": 2,
+  "Reviews": "Bad: Maybe it was just my room but the fridge was kind of hard to reach. Good: I loved the room I was in. The hotel itself is gorgeous and the room was quite cozy. The location was perfect as well. I would definitely stay here again.",
+  "Type": "junior suite room",
+  "Images": "Room1.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe16"
+  },
+  "Name": "Hotel No 287",
+  "Price": 3000,
+  "Location": "Birgunj",
+  "Rating": 3,
+  "Reviews": "Parking is available at a parking garage a few streets away if you use the one recommended by the hotel. The rate the hotel give you is not the lowest rate you can get, I parked at the same parking lot for less using a parking app. It is worth looking into this if you are driving. Secondly, make sure you try and get a room with a queen bed. The doubles are tiny and this was my only regret with staying at this hotel. The location of the property is excellent. Easy to get to from the freeway, and easy to walk to Boston Common, restaurants, bars and local tourist attractions. Staff were very helpful on arrival and during the stay. No expense was spared in the room in terms of technology (had hard wired speakers even in the bathroom). Not sure they are needed, but was a nice touch. Rooms were clean, bathrooms small but had everything you need and was nice to have a shower not standing over a bath for once.",
+  "Type": "deluxe hotel room",
+  "Images": "Room1.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe17"
+  },
+  "Name": "Hotel No 288",
+  "Price": 4000,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "Bad: There was NOTHING we disliked! The room was small but that was to be expected and the two of us were very comfortable there. The room size and the narrow hallways gave the entire place the European feel... nothing wrong with that, right. Good: 1. Outstanding location! Close to the T, the airport shuttle, historic churches, Public Library (also an attraction in itself), Prudential SkyDeck, the amazing Newbury St. with all the shops and restaurants... I could go on and on. 2. Excellent staff - attentive, helpful, understanding, flexible... overall very pleasant without being over the top. 3. A small place that felt like home, without that big corporate hotel feel. 4. A good continental breakfast that never ran out of any items. 5. Free WiFi that ran very well. 6. Reliable cooling/heating system. 7. All the small details such as nice toiletry items, modern plumbing, detachable shower head, hairdryer, iron, a huge mirror... Thank you, CharlesMark! We hope to stay there again.",
+  "Type": "junior suite room",
+  "Images": "Room15.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe18"
+  },
+  "Name": "Hotel No 289",
+  "Price": 3000,
+  "Location": " Pokhara",
+  "Rating": 3,
+  "Reviews": "Bad: Highly recommend. Good: Modern style, great location, super helpful staff, continental breakfast included, great value, clean",
+  "Type": "standard deluxe",
+  "Images": "Room5.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe19"
+  },
+  "Name": "Hotel No 290",
+  "Price": 1000,
+  "Location": "Bharatpur",
+  "Rating": 3,
+  "Reviews": "Bad: staff r not helpful at all, room was really soooooo tiny even I booked large room, but the staff gave me two options,, if I want the large room I booked,,,, I have to go up a stair with my luggages, then down a stair again with my luggage to the basement, then walk through a hall way to reach my large room,,, or get a tiny one so I can use the elevator and make it easier for me to reach a room with all my luggages. really Bad experience,, I paid 200 a day for this SH,, I would Pay only 160 at Bellagio LAS VEGAS and get the best service in stars hotel,,,better than this hotel charlesMark. dont book this hotel Pals in case u have other options. Good: location",
+  "Type": "deluxe hotel room",
+  "Images": "Room8.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe1a"
+  },
+  "Name": "Hotel No 291",
+  "Price": 3000,
+  "Location": "Lalitpur",
+  "Rating": 5,
+  "Reviews": "Bad: Size of room. Good: Leaving",
+  "Type": "standard room",
+  "Images": "Room8.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe1b"
+  },
+  "Name": "Hotel No 292",
+  "Price": 1500,
+  "Location": " Pokhara",
+  "Rating": 2,
+  "Reviews": "Bad: I don't really know why this hotel has such a high rating. It's decent, but definitely not worth 3* and 300+ I paid for the room. Nothing in particular, but just the entire feel and look of it was more in the 2*, 150-200 range. Also, there were some road works taking place just outside the hotel at 7AM that produced insufferable noise, so I wish I had known that before booking.",
+  "Type": "luxury suite",
+  "Images": "Room5.jpg",
+  "Pool": "YES",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe1c"
+  },
+  "Name": "Hotel No 293",
+  "Price": 4000,
+  "Location": "Biratnagar",
+  "Rating": 3,
+  "Reviews": "Bad: Nothing to dislike awesome stay. Good: Really liked the modern feel to the place ! Nice looking spot, so I kinda look like a bum when I travel so not to attract crime or Theves . And I usually travel around walking and exploring so I travel light aka bum looking ... the staff was very friendly to me . The room was awesome nice touches classical music playing after a shower and some music I was rejuvenated and went to the bar an had great conversation really a good memory to my trip I'd defiantly stay here again like the small hotel appeal . Great stay .",
+  "Type": "deluxe hotel room",
+  "Images": "Room6.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe1d"
+  },
+  "Name": "Hotel No 294",
+  "Price": 3000,
+  "Location": "Bharatpur",
+  "Rating": 5,
+  "Reviews": "Bad: Price did not fit the size of the room. It felt more like a cubicle. Good: The room was nice and clean, came with safe, and fridge.",
+  "Type": "junior suite room",
+  "Images": "Room5.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe1e"
+  },
+  "Name": "Hotel No 295",
+  "Price": 2000,
+  "Location": "Birgunj",
+  "Rating": 3,
+  "Reviews": "Strange drainage smell when entering the reception area Loved the location and friendly staff",
+  "Type": "luxury suite",
+  "Images": "Room15.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe1f"
+  },
+  "Name": "Hotel No 296",
+  "Price": 3500,
+  "Location": "Lalitpur",
+  "Rating": 3,
+  "Reviews": "Good: great location breakfast",
+  "Type": "standard deluxe",
+  "Images": "Room11.jpg",
+  "Pool": "NO",
+  "Gym": "YES",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe20"
+  },
+  "Name": "Hotel No 297",
+  "Price": 1000,
+  "Location": "Birgunj",
+  "Rating": 5,
+  "Reviews": "Good: The breakfast was good and the bedroom was comfortable.It was within walking distance of the freedom trail.There was also a shuttle bus to the airport within walking distance.",
+  "Type": "standard room",
+  "Images": "Room15.jpg",
+  "Pool": "YES",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe21"
+  },
+  "Name": "Hotel No 298",
+  "Price": 2000,
+  "Location": "Birgunj",
+  "Rating": 5,
+  "Reviews": "Bad: Walls are very thin - we could hear upstairs and next door neighbors. The breakfast was very basic. Good: The location was great. Easy access to T. Nice bathroom.",
+  "Type": "standard room",
+  "Images": "Room8.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe22"
+  },
+  "Name": "Hotel No 299",
+  "Price": 2000,
+  "Location": "Bharatpur",
+  "Rating": 3,
+  "Reviews": "Bad: Tiny grim, room with a full size bed for my husband and myself which was way too small.If you opened the window ( onto an airshaft) the food smell from the neighboring restaurant were terrible. Good: the location",
+  "Type": "standard room",
+  "Images": "Room11.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "NO"
+},
+{
+  "_id": {
+    "$oid": "651f772e0a9cfce5d93abe23"
+  },
+  "Name": "Hotel No 300",
+  "Price": 4000,
+  "Location": "Lalitpur",
+  "Rating": 2,
+  "Reviews": "Bad: The breakfast was good but there could've been more variety to it. Good: The location was amazing! I also liked the fact that the hotel was very cosy.",
+  "Type": "standard deluxe",
+  "Images": "Room8.jpg",
+  "Pool": "NO",
+  "Gym": "NO",
+  "Spa": "YES"
+}]
